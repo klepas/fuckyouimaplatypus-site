@@ -54,7 +54,7 @@ $base-border-radius: 3px;
 $base-z-index: 0;
 
 //  # Base colours.
-$base-font-color: #fff;
+$base-font-color: #d5eac3;
 $base-background-color: #111;
 $secondary-background-color: lighten($base-background-color, 10%);
 
@@ -77,17 +77,20 @@ $secondary-background-color: lighten($base-background-color, 10%);
         //"typography",
         //"buttons",
         //"tables",
-        "syntax-highlighting"
-;
+        "textures",
+        "syntax-highlighting";
+
 
 body {
   @include outer-container;
+  @include texture(0deg, $base-background-color, darken(#051b28, 7%), 85, 1);
 
   font-family: $base-font-family;
   font-size: $base-font-size;
   color: $base-font-color;
   line-height: $base-leading;
   background-color: $base-background-color;
+  text-shadow: #000 2px 0 0;
 }
 
 header#site-banner,
@@ -98,12 +101,12 @@ footer#site-footer {
     @include shift(1);
   }
   @include media(screen and $tablet) {
-    @include span-columns(10 of 12);
-    @include shift(1);
+    @include span-columns(8 of 12);
+    @include shift(2);
   }
   @include media(screen and $large-desktop) {
-    @include span-columns(10 of 12);
-    @include shift(1);
+    @include span-columns(8 of 12);
+    @include shift(2);
   }
 
   margin: 0 auto;
@@ -126,4 +129,8 @@ dl,
 blockquote,
 p {
   margin-bottom: $base-spacing;
+  font-size: 0.75em;
+}
+
+p {
 }
