@@ -1,0 +1,129 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+//  # Custom variables.
+//
+//    None here right now?
+
+//  # Custom monospace fonts.
+//
+//    Using Mononoki from
+//    - https://madmalik.github.io/mononoki/
+//    - https://github.com/madmalik/mononoki/tree/master
+//
+//    Licensed: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007.
+@font-face {
+  font-family: 'Mononoki';
+  src:  url(../fonts/mononoki/mononoki-Regular.eot); /* IE9 Compat Modes fuck you */
+  src:  url('../fonts/mononoki/mononoki-Regular.woff2') format('woff2'), /* Super modern browsers */
+        url('../fonts/mononoki/mononoki-Regular.woff') format('woff'), /* Pretty mordern */
+        url('../fonts/mononoki/mononoki-Regular.ttf')  format('truetype'); /* Safari, Android, iOS and that crap */
+
+         // fun fact:
+         // there are going to be more android phones running unpatched *nix shift
+         // than there are probably unpatched xp boxes.
+}
+
+@font-face {
+  font-family: 'Mononoki Bold';
+  src: url(../fonts/mononoki/mononoki-Bold.eot); /* IE9 Compat Modes fuck you */
+  src: url('../fonts/mononoki/mononoki-Bold.woff2') format('woff2'), /* Super modern browsers */
+       url('../fonts/mononoki/mononoki-Bold.woff') format('woff'), /* Pretty mordern */
+       url('../fonts/mononoki/mononoki-Bold.ttf')  format('truetype'); /* Safari, Android, iOS and that crap */
+
+  font-weight: bold;
+}
+
+$fontface-mono: 'Mononoki', Monaco, "Bitstream Vera Sans Mono", monospace;
+
+$base-font-family: $fontface-mono;
+$base-font-size:   16px;
+$small-font-size:  $base-font-size * 0.875;
+
+//  # Base leading (line heights).
+$base-leading: 1.7;
+$base-heading-leading: 1.4;
+
+//  # Other Sizes.
+$base-spacing: $base-leading * 1em;
+$small-spacing: $base-spacing / 2;
+$base-border-radius: 3px;
+$base-z-index: 0;
+
+//  # Base colours.
+$base-font-color: #fff;
+$base-background-color: #111;
+$secondary-background-color: lighten($base-background-color, 10%);
+
+//  # Import partials.
+//
+//    File partials are loaded from `sass_dir` (set in `_config.yml`).
+//
+//    `bourbon` and `neat` are called via gems.
+@import
+        //"colours",
+        //"variables",
+
+        "normalize",
+        "bourbon",
+        "grid-settings",
+        "neat",
+        //"grid",
+        //"accessibility",
+        //"forms",
+        //"typography",
+        //"buttons",
+        //"tables",
+        "syntax-highlighting"
+;
+
+body {
+  @include outer-container;
+
+  font-family: $base-font-family;
+  font-size: $base-font-size;
+  color: $base-font-color;
+  line-height: $base-leading;
+  background-color: $base-background-color;
+}
+
+header#site-banner,
+main,
+footer#site-footer {
+  @include media(screen and $mobile-landscape) {
+    @include span-columns(10 of 12);
+    @include shift(1);
+  }
+  @include media(screen and $tablet) {
+    @include span-columns(10 of 12);
+    @include shift(1);
+  }
+  @include media(screen and $large-desktop) {
+    @include span-columns(10 of 12);
+    @include shift(1);
+  }
+
+  margin: 0 auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: $base-heading-leading;
+  font-weight: normal;
+  margin-bottom: $small-spacing;
+}
+
+ul,
+ol,
+dl,
+blockquote,
+p {
+  margin-bottom: $base-spacing;
+}
