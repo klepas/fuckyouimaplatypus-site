@@ -158,9 +158,10 @@ a {
   &:focus { }
 }
 
-pre,
-code {
+pre code {
   font-family: $fontface-mono;
+  opacity: 0.25;
+  font-size: 0.7em;
 }
 ////////////////////////////////////////////////////////////////////////////////
 
@@ -226,11 +227,6 @@ main {
     }
   }
 
-  pre code {
-    opacity: 0.25;
-    font-size: 0.7em;
-  }
-
   ul li {
     list-style-type: square;
   }
@@ -252,6 +248,10 @@ main {
       }
     }
   }
+}
+
+header#site-banner {
+  margin-bottom: $base-spacing;
 }
 
 header#site-banner,
