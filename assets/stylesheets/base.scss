@@ -216,6 +216,10 @@ header {
       font-size: 1.1em;
       opacity: 0.95;
       margin: 0;
+
+      @include media(screen and $mobile-landscape) {
+        font-size: 1em;
+      }
     }
 
     p.site-description {
@@ -237,6 +241,10 @@ main {
   font-size: 1.25em; // 18
   opacity: 0.85;
   letter-spacing: 0.5px;
+
+  @include media(screen and $mobile-landscape) {
+    font-size: 1em;
+  }
 
   h2 {
     text-indent: -($small-spacing * 1.8);
