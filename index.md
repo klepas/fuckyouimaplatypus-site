@@ -2,6 +2,12 @@
 layout: fuckyouimaplatypus
 ---
 
+```
+---
+layout: fuckyouimaplatypus
+---
+```
+
 We are a Sydney-based, community-driven initiative that takes a hands-on approach in doing cool security stuff: we're less about debating the merits of the latest iteration of the PCI-PTS or whether a particular vulnerability should have a CVSS score of 6.75 or 6.77, and more about bringing together like-minded people to share ideas, work on cool information security projects and participate in community events together. Think of it as a casual information security fight club of sorts: the only real rule is that you have to play.
 
 If you're interested in information security, and willing to spend time and effort actually contributing to cool security projects, whether it be through helping organise venues and content for events, by participating in community events like CTF's or even via code commits (especially via code commits!): let's talk :)

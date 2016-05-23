@@ -3,47 +3,22 @@
 ---
 
 @charset "utf-8";
-
-//  # Custom variables.
-//
-//    None here right now?
+////////////////////////////////////////////////////////////////////////////////
 
 //  # Custom monospace fonts.
 //
-//    Using Mononoki from
-//    - https://madmalik.github.io/mononoki/
-//    - https://github.com/madmalik/mononoki/tree/master
-//
-//    Licensed: SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007.
-@font-face {
-  font-family: 'Mononoki';
-  src:  url(../fonts/mononoki/mononoki-Regular.eot); /* IE9 Compat Modes fuck you */
-  src:  url('../fonts/mononoki/mononoki-Regular.woff2') format('woff2'), /* Super modern browsers */
-        url('../fonts/mononoki/mononoki-Regular.woff') format('woff'), /* Pretty mordern */
-        url('../fonts/mononoki/mononoki-Regular.ttf')  format('truetype'); /* Safari, Android, iOS and that crap */
-
-         // fun fact:
-         // there are going to be more android phones running unpatched *nix shift
-         // than there are probably unpatched xp boxes.
-}
-
-@font-face {
-  font-family: 'Mononoki Bold';
-  src: url(../fonts/mononoki/mononoki-Bold.eot); /* IE9 Compat Modes fuck you */
-  src: url('../fonts/mononoki/mononoki-Bold.woff2') format('woff2'), /* Super modern browsers */
-       url('../fonts/mononoki/mononoki-Bold.woff') format('woff'), /* Pretty mordern */
-       url('../fonts/mononoki/mononoki-Bold.ttf')  format('truetype'); /* Safari, Android, iOS and that crap */
-
-  font-weight: bold;
-}
-
 @font-face {
   font-family: 'FixedsysExcelsior301Regular';
   src:  url('../fonts/fsex300/fsex300-webfont.eot');
+          // IE9 Compat Modes fuck you
   src:  url('../fonts/fsex300/fsex300-webfont.eot?#iefix') format('embedded-opentype'),
+          // IE7-8(?) compat Modes fuck you
         url('../fonts/fsex300/fsex300-webfont.woff') format('woff'),
+          // Gen. modern browsers
         url('../fonts/fsex300/fsex300-webfont.ttf') format('truetype'),
+          // Safari, Android, iOS and that crap
         url('../fonts/fsex300/fsex300-webfont.svg#FixedsysExcelsior301Regular') format('svg');
+          // b/c?
 
   font-weight: normal;
   font-style: normal;
@@ -51,7 +26,11 @@
   -moz-osx-font-smoothing: none;
   font-smooth:never;
 }
+////////////////////////////////////////////////////////////////////////////////
 
+//  # Custom variables.
+//
+//    None here right now?
 $fontface-mono: 'FixedsysExcelsior301Regular', 'Mononoki', Monaco, "Bitstream Vera Sans Mono", monospace;
 
 $base-font-family: $fontface-mono;
@@ -72,12 +51,14 @@ $base-z-index: 0;
 $base-font-color: #d5eac3;
 $base-background-color: #111;
 $secondary-background-color: lighten($base-background-color, 10%);
+////////////////////////////////////////////////////////////////////////////////
 
 //  # Import partials.
 //
 //    File partials are loaded from `sass_dir` (set in `_config.yml`).
 //
 //    `bourbon` and `neat` are called via gems.
+//
 @import
         //"colours",
         //"variables",
@@ -94,8 +75,12 @@ $secondary-background-color: lighten($base-background-color, 10%);
         //"tables",
         "textures",
         "syntax-highlighting";
+////////////////////////////////////////////////////////////////////////////////
 
-
+//  # Basic top-level block elements in the DOM.
+//
+//    Also gives access to column include and grid settings.
+//
 body {
   @include outer-container;
   @include texture(0deg, $base-background-color, darken(#051b28, 7%), 85, 1);
@@ -106,27 +91,30 @@ body {
   line-height: $base-leading;
   background-color: $base-background-color;
   text-shadow: #000 2px 0 0;
+
+  header#site-banner,
+  main,
+  footer#site-footer {
+    @include media($desktop and $large-desktop) {
+      @include span-columns(7 of 12);
+      @include shift(1);
+    }
+    @include media($mobile-landscape and $tablet) {
+      @include span-columns(8 of 12);
+      @include shift(1);
+    }
+    @include media(screen and $mobile-landscape) {
+      @include span-columns(10 of 12);
+      @include shift(1);
+    }
+
+    margin: 0 auto;
+  }
 }
+////////////////////////////////////////////////////////////////////////////////
 
-header#site-banner,
-main,
-footer#site-footer {
-  @include media($desktop and $large-desktop) {
-    @include span-columns(7 of 12);
-    @include shift(1);
-  }
-  @include media($mobile-landscape and $tablet) {
-    @include span-columns(8 of 12);
-    @include shift(1);
-  }
-  @include media(screen and $mobile-landscape) {
-    @include span-columns(10 of 12);
-    @include shift(1);
-  }
-
-  margin: 0 auto;
-}
-
+//  # Basic in-line level elements in the DOM.
+//
 h1,
 h2,
 h3,
@@ -158,14 +146,13 @@ a {
 
   }
 }
+////////////////////////////////////////////////////////////////////////////////
 
-//////////
-
+//  # Actual styling.
+//
 header {
 
   &#site-banner {
-    margin-top: $base-spacing;
-
     h1 a pre {
       font-size: 7px;
       font-weight: bold;
@@ -180,14 +167,26 @@ header {
     }
     p.site-description {
       font-size: 1em;
+      color: #8CD3FF;
+      opacity: 0.5;
+      text-indent: -($small-spacing * 1.25);
 
       &::before {
         content: '\ ';
+        color: $base-font-color;
+        opacity: 0.25;
       }
     }
   }
 }
 
 main {
-  font-size: 1.125em; // 18
+  font-size: 1.25em; // 18
+  opacity: 0.8;
+
+  pre code {
+    opacity: 0.25;
+    font-family: $fontface-mono;
+    font-size: 0.7em;
+  }
 }
