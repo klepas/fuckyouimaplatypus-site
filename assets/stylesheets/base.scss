@@ -83,7 +83,7 @@ $secondary-background-color: lighten($base-background-color, 10%);
 //
 body {
   @include outer-container;
-  @include texture(0deg, $base-background-color, darken(#051b28, 7%), 85, 1);
+  @include texture(0deg, $base-background-color, darken(#051b28, 7%), 46, 1);
 
   font-family: $base-font-family;
   font-size: $base-font-size;
@@ -95,6 +95,7 @@ body {
   header#site-banner,
   main,
   footer#site-footer {
+
     @include media($desktop and $large-desktop) {
       @include span-columns(7 of 12);
       @include shift(1);
@@ -107,8 +108,6 @@ body {
       @include span-columns(10 of 12);
       @include shift(1);
     }
-
-    margin: 0 auto;
   }
 }
 ////////////////////////////////////////////////////////////////////////////////
@@ -124,6 +123,7 @@ h6 {
   line-height: $base-heading-leading;
   font-weight: normal;
   margin-bottom: $small-spacing;
+  margin-top: $small-spacing;
 }
 
 ul,
@@ -131,7 +131,7 @@ ol,
 dl,
 blockquote,
 p {
-  margin-bottom: $base-spacing;
+  margin-bottom: ($base-spacing * 1.5);
   font-size: 0.75em;
 }
 
@@ -142,14 +142,31 @@ a {
   text-decoration: none;
 
   &:hover,
-  &:focus {
+  &:focus { }
+}
 
-  }
+pre,
+code {
+  font-family: $fontface-mono;
 }
 ////////////////////////////////////////////////////////////////////////////////
 
 //  # Actual styling.
 //
+a {
+  padding: ($small-spacing / 2);
+  color: lighten($base-font-color, 10%);
+  border-bottom: 2px solid darken(#8CD3FF, 50%);
+
+  &:hover,
+  &:focus {
+    background-color: rgba(0, 86, 140, 0.5);
+    color: white;
+    opacity: 1;
+    border-bottom: none;
+  }
+}
+
 header {
 
   &#site-banner {
@@ -167,12 +184,12 @@ header {
     }
     p.site-description {
       font-size: 1em;
-      color: #8CD3FF;
+      color: #FF6D6D;
       opacity: 0.5;
       text-indent: -($small-spacing * 1.25);
 
       &::before {
-        content: '\ ';
+        content: '';
         color: $base-font-color;
         opacity: 0.25;
       }
@@ -183,10 +200,67 @@ header {
 main {
   font-size: 1.25em; // 18
   opacity: 0.8;
+  letter-spacing: 0.5px;
+
+  h2 {
+    text-indent: -($small-spacing * 1.8);
+    color: #8CD3FF;
+    opacity: 0.5;
+
+    &::before {
+      content: "\0023\0023\0020"; // `## `
+      opacity: 0.25;
+    }
+  }
 
   pre code {
     opacity: 0.25;
-    font-family: $fontface-mono;
     font-size: 0.7em;
   }
+
+  ul li {
+    list-style-type: square;
+  }
+
+  dl {
+    dt,
+    dd {
+      font-size: 1.166em; // 20
+    }
+    dt {
+      opacity: 0.7;
+    }
+    dd {
+      margin-left: 0;
+
+      &::before {
+        content: '\003A\0020'; // `: `
+        opacity: 0.25;
+      }
+    }
+  }
+}
+
+header#site-banner,
+footer#site-footer {
+  a {
+    opacity: 0.7;
+    border-bottom: none;
+  }
+}
+
+header#site-banner a {
+  &:hover,
+  &:focus {
+    background-color: transparent;
+  }
+}
+
+footer#site-footer {
+  border-top: $base-spacing solid transparentize(#FF6D6D, .75);
+  text-align: center;
+  clear: both;
+  margin-top: ($base-spacing * 2);
+  margin-bottom: $base-spacing;
+  padding-top: $base-spacing;
 }

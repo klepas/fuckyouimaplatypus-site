@@ -43,6 +43,8 @@ And of course, this just isn't enough hacking for us, so we regularly get togeth
 
 Check out [Our Calendar](https://calendar.google.com/calendar/embed?src=calendar%40letsjusthackshit.org&ctz=Australia/Sydney) for all the events we crash and organise.
 
+Some peeps are also in a [LinkedIn group](https://www.linkedin.com/groups/7051231/).
+
 ## Swag
 
 If you missed out on our swag, don't pout,
@@ -50,4 +52,4 @@ If you missed out on our swag, don't pout,
 
 ## Contact
 
-Want to support us? Or just bug us with questions? We're reachable on {{ site.email }}
+Want to support us? Or just bug us with questions? We're reachable on [{{ site.email }}](mailto:{{ site.email }}).
