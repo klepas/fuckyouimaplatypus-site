@@ -96,17 +96,17 @@ body {
 header#site-banner,
 main,
 footer#site-footer {
+  @include media($desktop and $large-desktop) {
+    @include span-columns(7 of 12);
+    @include shift(1);
+  }
+  @include media($mobile-landscape and $tablet) {
+    @include span-columns(8 of 12);
+    @include shift(1);
+  }
   @include media(screen and $mobile-landscape) {
     @include span-columns(10 of 12);
     @include shift(1);
-  }
-  @include media(screen and $tablet) {
-    @include span-columns(8 of 12);
-    @include shift(2);
-  }
-  @include media(screen and $large-desktop) {
-    @include span-columns(8 of 12);
-    @include shift(2);
   }
 
   margin: 0 auto;
