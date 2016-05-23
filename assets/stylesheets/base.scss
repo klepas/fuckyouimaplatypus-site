@@ -93,8 +93,7 @@ body {
   text-shadow: #000 2px 0 0;
 
   header#site-banner,
-  main,
-  footer#site-footer {
+  main {
 
     @include media($desktop and $large-desktop) {
       @include span-columns(7 of 12);
@@ -102,6 +101,20 @@ body {
     }
     @include media($mobile-landscape and $tablet) {
       @include span-columns(8 of 12);
+      @include shift(1);
+    }
+    @include media(screen and $mobile-landscape) {
+      @include span-columns(10 of 12);
+      @include shift(1);
+    }
+  }
+  footer#site-footer {
+    @include media($desktop and $large-desktop) {
+      @include span-columns(10 of 12);
+      @include shift(1);
+    }
+    @include media($mobile-landscape and $tablet) {
+      @include span-columns(10 of 12);
       @include shift(1);
     }
     @include media(screen and $mobile-landscape) {
@@ -173,13 +186,13 @@ header {
     h1 a pre {
       font-size: 7px;
       font-weight: bold;
-      opacity: 0.2;
+      opacity: 0.25;
       text-shadow: black 2px 0 0;
       color: white;
 
       &:hover,
       &:focus {
-        opacity: 0.5;
+        opacity: 0.4;
       }
     }
     p.site-description {
@@ -258,9 +271,9 @@ header#site-banner a {
 
 footer#site-footer {
   border-top: $base-spacing solid transparentize(#FF6D6D, .75);
-  text-align: center;
+  text-align: right;
   clear: both;
   margin-top: ($base-spacing * 2);
-  margin-bottom: $base-spacing;
-  padding-top: $base-spacing;
+  margin-bottom: $small-spacing;
+  padding-top: $small-spacing;
 }
