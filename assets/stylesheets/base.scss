@@ -73,8 +73,8 @@ $secondary-background-color: lighten($base-background-color, 10%);
         //"typography",
         //"buttons",
         //"tables",
-        "textures",
-        "syntax-highlighting";
+        //"syntax-highlighting",
+        "textures";
 ////////////////////////////////////////////////////////////////////////////////
 
 //  # Basic top-level block elements in the DOM.
@@ -163,6 +163,13 @@ pre code {
   opacity: 0.25;
   font-size: 0.7em;
 }
+
+hr {
+  border: 0;
+  background-color: transparentize(#FF6D6D, .75);
+  height: $base-spacing;
+}
+
 ////////////////////////////////////////////////////////////////////////////////
 
 //  # Actual styling.
@@ -184,18 +191,33 @@ a {
 header {
 
   &#site-banner {
+    height: 100vh;
+    margin-bottom: 0;
+
+    @include media(screen and $mobile-landscape) {
+      height: auto;
+    }
+
     h1 a pre {
       font-size: 7px;
       font-weight: bold;
       opacity: 0.25;
       text-shadow: black 2px 0 0;
       color: white;
+      margin: 0;
 
       &:hover,
       &:focus {
         opacity: 0.4;
       }
     }
+
+    p {
+      font-size: 1em;
+      opacity: 0.95;
+      margin: 0;
+    }
+
     p.site-description {
       font-size: 1em;
       color: #FF6D6D;
@@ -248,10 +270,6 @@ main {
       }
     }
   }
-}
-
-header#site-banner {
-  margin-bottom: $base-spacing;
 }
 
 header#site-banner,

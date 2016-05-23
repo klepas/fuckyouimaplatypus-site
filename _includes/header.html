@@ -5,8 +5,6 @@
     <h1>
       <a href="{{ site.baseurl }}/">
       <pre>
-
-
 _|              _|      _|                 _|                        _|
 _|    _|_|    _|_|_|_|       _|_|_|            _|    _|    _|_|_|  _|_|_|_|
 _|  _|_|_|_|    _|         _|_|            _|  _|    _|  _|_|        _|
@@ -26,6 +24,6 @@ _|    _|    _|_|_|    _|_|_|  _|    _|      _|_|_|    _|    _|  _|      _|_|
     <p class="site-description">{{ site.description }}</p>
 
     {% include fu-platy.html %}
-    {{ page.abstract }}
+    {{ page.abstract | markdownify }}
 
 </header>

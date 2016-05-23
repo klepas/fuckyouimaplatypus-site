@@ -5,6 +5,8 @@ abstract: "We are a Sydney-based, community-driven initiative that takes a hands
 
 If you're interested in information security, and willing to spend time and effort actually contributing to cool security projects, whether it be through helping organise venues and content for events, by participating in community events like CTF's or even via code commits (especially via code commits!): let's talk :)
 
+***
+
 ## Conference
 
 Ever since Ruxcon departed for Melbourne, the Sydney information security community has been sorely missing a conference-style event to bring the community together for a few days of sharing ideas, showcasing our projects and drinking. We're working together to build such an event later this year.
