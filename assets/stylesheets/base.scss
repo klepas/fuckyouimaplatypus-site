@@ -37,7 +37,22 @@
   font-weight: bold;
 }
 
-$fontface-mono: 'Mononoki', Monaco, "Bitstream Vera Sans Mono", monospace;
+@font-face {
+  font-family: 'FixedsysExcelsior301Regular';
+  src:  url('../fonts/fsex300/fsex300-webfont.eot');
+  src:  url('../fonts/fsex300/fsex300-webfont.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/fsex300/fsex300-webfont.woff') format('woff'),
+        url('../fonts/fsex300/fsex300-webfont.ttf') format('truetype'),
+        url('../fonts/fsex300/fsex300-webfont.svg#FixedsysExcelsior301Regular') format('svg');
+
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: none;
+  font-smooth:never;
+}
+
+$fontface-mono: 'FixedsysExcelsior301Regular', 'Mononoki', Monaco, "Bitstream Vera Sans Mono", monospace;
 
 $base-font-family: $fontface-mono;
 $base-font-size:   16px;
@@ -133,4 +148,46 @@ p {
 }
 
 p {
+}
+
+a {
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+
+  }
+}
+
+//////////
+
+header {
+
+  &#site-banner {
+    margin-top: $base-spacing;
+
+    h1 a pre {
+      font-size: 7px;
+      font-weight: bold;
+      opacity: 0.2;
+      text-shadow: black 2px 0 0;
+      color: white;
+
+      &:hover,
+      &:focus {
+        opacity: 0.5;
+      }
+    }
+    p.site-description {
+      font-size: 1em;
+
+      &::before {
+        content: '\ ';
+      }
+    }
+  }
+}
+
+main {
+  font-size: 1.125em; // 18
 }
