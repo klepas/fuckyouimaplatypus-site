@@ -33,7 +33,7 @@ And of course, this just isn't enough hacking for us, so we regularly get togeth
 - Workshops, where we get together to talk about new technology ideas, similar to a university-style "lab" session
 - Radio on the Rooftop, where we get together and explore the wonderful world of software defined radio from the comfort of a rooftop bar
 - Software analysis and vulnerability discovery, where we share the joy of controlling $PC together
--Competing in internal Capture the Flag competitions together, working as a team to solve interesting security challenges.
+- Competing in internal Capture the Flag competitions together, working as a team to solve interesting security challenges.
 - ... and much more.
 
 Check out [Our Calendar](https://calendar.google.com/calendar/embed?src=calendar%40letsjusthackshit.org&ctz=Australia/Sydney) for all the events we crash and organise.
