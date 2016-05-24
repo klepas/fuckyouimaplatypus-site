@@ -11,30 +11,45 @@ If you're interested in information security, and willing to spend time and effo
 
 Ever since Ruxcon departed for Melbourne, the Sydney information security community has been sorely missing a conference-style event to bring the community together for a few days of sharing ideas, showcasing our projects and drinking. We're working together to build such an event later this year.
 
-In the spirit of what brought this community together, we're aiming to build a more hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a series of labs (think lockpicking tables, SDR workshops, a CTF...) and "lightning talk" style events where everyone who wants to participate can.
+In the spirit of what brought this community together, we're aiming to build a more hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a series of labs (think lock-picking tables, SDR workshops, a CTF...) and "lightning talk" style events where everyone who wants to participate can.
 
 Date
-: 24-25 September (tentatively, but pencil it in!)
+: Saturday 24. September (ink that in!)
 
 Location
-: TBA, possibly Marrickville
+: Gasoline Motor Co -- 88 Bourke Rd, Alexandria NSW 2015
+
+After-party
+: Fairground Follies -- 22 Burrows Rd, St Peters NSW 2044
 
 ## Community Events
 
 As a group, we frequent many of the community events around Sydney. You'll generally find us at events like:
 
-- Cyber Security FM
+- Platypus events
 - Sectalks Sydney
 - Ruxmon Sydney
+- CryptoParty Sydney
 - 2600 Sydney
 
 And of course, this just isn't enough hacking for us, so we regularly get together to do tons of fun shit like:
 
-- Workshops, where we get together to talk about new technology ideas, similar to a university-style "lab" session
-- Radio on the Rooftop, where we get together and explore the wonderful world of software defined radio from the comfort of a rooftop bar
-- Software analysis and vulnerability discovery, where we share the joy of controlling $PC together
-- Competing in internal Capture the Flag competitions together, working as a team to solve interesting security challenges.
-- ... and much more.
+Workshops
+: We get together to talk about new technology ideas, similar to a university-style "lab" session.
+
+Radio on the Rooftop
+: We get together and explore the wonderful world of software defined radio from the comfort of a rooftop bar.
+
+Software analysis and vulnerability discovery
+: We share the joy of controlling $PC together.
+
+Pick & hack locks
+: Tinkering, dismantling, modifying, and of course picking locks.
+
+CFP
+: Competing in internal Capture the Flag competitions together, working as a team to solve interesting security challenges.
+
+... and a bunch more.
 
 Check out [Our Calendar](https://calendar.google.com/calendar/embed?src=calendar%40letsjusthackshit.org&ctz=Australia/Sydney) for all the events we crash and organise.
 
