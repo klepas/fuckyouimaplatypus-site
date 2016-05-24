@@ -9,7 +9,7 @@
 title: letsjusthackshit
 version: "0.1"
 description: >
-  $ less index.md
+  $ cat index.md
 email: info@letsjusthackshit.org
 
 baseurl: "" # the subpath of your site, e.g. /blog
