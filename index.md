@@ -46,7 +46,7 @@ Software analysis and vulnerability discovery
 Pick & hack locks
 : Dismantling, forensics, modifying, and of course picking locks both mechanical & digital.
 
-CFP
+CTF
 : Competing in internal **Capture the Flag** competitions together, working as a team to solve interesting security challenges.
 
 ... and a bunch more.
