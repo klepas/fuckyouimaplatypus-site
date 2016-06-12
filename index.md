@@ -29,13 +29,13 @@ Location
 : aMBUSH Gallery -- Level 3, Central Park Mall, 28 Broadway Chippendale NSW 2008
 
 Sunset Launch Pre-party
-: Lawn of State Museum of Contemporary Art
+: The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Operaa Hose)
 
 After-Party
 : Some dingy bar
 
 Sunrise After-After-Party
-: Some penthouse
+: Some penthouse, which all are welcome to crash at
 
 The-Morning-After-Brekky-BBQ
 : Some hipster brekky bar
