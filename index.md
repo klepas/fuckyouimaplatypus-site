@@ -3,7 +3,7 @@ layout: fuckyouimaplatypus
 abstract: "We are a Sydney-based, community-driven initiative that takes a hands-on approach in doing cool security stuff: we're less about debating the merits of the latest iteration of the PCI-PTS or whether a particular vulnerability should have a CVSS score of 6.75 or 6.77, and more about bringing together like-minded people to share ideas, work on cool information security projects and participate in community events together. Think of it as a casual infosec fight club of sorts: the only real rule is that you have to play."
 ---
 
-If you're interested in information security, and willing to spend time and effort actually contributing to cool security projects, whether it be through helping organise venues and content for events, by participating in community events like CTFs or even via code commits (especially via code commits!): let's talk (:
+If you're interested in information security, and willing to spend time and effort actually contributing to cool security projects, whether it be through helping organise venues and content for events, by participating in community events like CTFs or even via code commits (especially via code commits!): let's talk =]
 
 ***
 
@@ -69,7 +69,7 @@ CTF
 
 ... and sooo much more.
 
-Check out [Our Calendar](https://calendar.google.com/calendar/embed?src=calendar%40letsjusthackshit.org&ctz=Australia/Sydney) for all the events we crash and organise.
+Check out [Our Calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=calendar%40letsjusthackshit.org&color=%231B887A&src=letsjusthackshit.org_faab9rp3dv6p5q60fqm80r5gu8%40group.calendar.google.com&color=%236B3304&src=ctftime%40gmail.com&color=%23B1365F&src=dgchlqmn2t1tet4f5ruen9aluc5kol6m%40import.calendar.google.com&color=%236B3304&src=re1qasj6g59ll5sni9he7rm52uf4744t%40import.calendar.google.com&color=%23AB8B00&ctz=Australia%2FSydney) for all the events we crash and organise.
 
 Find some platypodes in our [LinkedIn group](https://www.linkedin.com/groups/7051231/).
 
