@@ -50,7 +50,7 @@ As a group, we frequent many of the community events around Sydney. You'll gener
 - CryptoParty Sydney
 - 2600 Sydney
 
-Our regular [Platypus events] (http://www.meetup.com/en-AU/OWASP-Sydney-Web-Application-Security-Group/) gives us the opportunity to do tons of cool security shit like:
+Our regular [Platypus events](http://www.meetup.com/en-AU/OWASP-Sydney-Web-Application-Security-Group/) gives us the opportunity to do tons of cool security shit like:
 
 Workshops
 : We get together to talk about new technology ideas, similar to a university-style "lab" session.
@@ -71,12 +71,12 @@ CTF
 
 Check out [Our Calendar](https://calendar.google.com/calendar/embed?src=calendar%40letsjusthackshit.org&ctz=Australia/Sydney) for all the events we crash and organise.
 
-Join us in our [LinkedIn group](https://www.linkedin.com/groups/7051231/).
+Find some platypodes in our [LinkedIn group](https://www.linkedin.com/groups/7051231/).
 
 ## Swag
 
-If you missed out on our swag, we still have some left
-[stickers can still be purchased](https://www.stickermule.com/user/1070711202/stickers).
+If you missed out on our swag, 
+[we still have some left](https://www.stickermule.com/user/1070711202/stickers).
 
 ## Contact
 
