@@ -19,7 +19,7 @@ Date
 : Official welcome at 10:00am
 
 Cost
-: $50 cash, pay at the door
+: $65 cash, pay at the door
 
 Prerequisites
 : Bring your laptop, no excuses
