@@ -14,22 +14,23 @@ Ever since Ruxcon departed for Melbourne, the Sydney infosec community has been 
 In the spirit of what brought this community together, we're aiming to build a more hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a series of labs (think lock-picking tables, SDR workshops, a CTF...) and "lightning (whisky) talk" style events where everyone who wants to participate can.
 
 Date
-: Saturday 24. September 2016 (ink that in!)
+: Saturday 24th September 2016 (ink that in!)
 : Doors open at 9:00am
 : Official welcome at 10:00am
+: Closing at 18:00pm
 
 Cost
 : $65 cash, pay at the door
 
 Prerequisites
-: Bring your laptop, no excuses
+: Bring your laptop, no excuses. **No laptop, No ticket**
 : Be prepared to play
 
 Location
 : aMBUSH Gallery -- Level 3, Central Park Mall, 28 Broadway Chippendale NSW 2008
 
 Sunset Launch Pre-party
-: The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Operaa Hose)
+: The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Opera Hose)
 
 After-Party
 : Some dingy bar
