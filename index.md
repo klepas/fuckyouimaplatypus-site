@@ -29,8 +29,19 @@ Prerequisites
 Location
 : aMBUSH Gallery -- Level 3, Central Park Mall, 28 Broadway Chippendale NSW 2008
 
+A Game of Platypus Thrones
+: A twist of the traditional capture the flag wargames
+: Capture flags, upgrade your box or attack others
+: Use your platypus coins to buy hints, buy bots, buy insider knowledge about the other teams or bribe the platypus police
+: Keep your eyes peeled, flags are everywhere
+: Hosted by muld0r
+
+Workshops
+: Lockpicking - hosted by topy and klepas
+: Reverse engineering - hosted by lin_s
+
 Sunset Launch Pre-party
-: The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Opera Hose)
+: The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Opera House)
 
 After-Party
 : Some dingy bar
