@@ -83,8 +83,6 @@ CTF
 
 Check out [Our Calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=calendar%40letsjusthackshit.org&color=%231B887A&src=letsjusthackshit.org_faab9rp3dv6p5q60fqm80r5gu8%40group.calendar.google.com&color=%236B3304&src=ctftime%40gmail.com&color=%23B1365F&src=dgchlqmn2t1tet4f5ruen9aluc5kol6m%40import.calendar.google.com&color=%236B3304&src=re1qasj6g59ll5sni9he7rm52uf4744t%40import.calendar.google.com&color=%23AB8B00&ctz=Australia%2FSydney) for all the events we crash and organise.
 
-Find some platypodes in our [LinkedIn group](https://www.linkedin.com/groups/7051231/).
-
 ## Swag
 
 If you missed out on our swag, 
@@ -93,3 +91,5 @@ If you missed out on our swag,
 ## Contact
 
 Want to support us? Or just bug us with questions? We're reachable on [{{ site.email }}](mailto:{{ site.email }}).
+Or find us on [twitter](https://twitter.com/platypuspartay)
+Or find other platypodes on our [LinkedIn group](https://www.linkedin.com/groups/7051231/)
