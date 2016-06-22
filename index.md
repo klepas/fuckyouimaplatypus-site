@@ -91,5 +91,5 @@ If you missed out on our swag,
 ## Contact
 
 Want to support us? Or just bug us with questions? We're reachable on [{{ site.email }}](mailto:{{ site.email }}).
-Or find us on [twitter](https://twitter.com/platypuspartay)
-Or find other platypodes on our [LinkedIn group](https://www.linkedin.com/groups/7051231/)
+Or find us on [twitter](https://twitter.com/platypuspartay).
+Or find other platypodes on our [LinkedIn group](https://www.linkedin.com/groups/7051231/).
