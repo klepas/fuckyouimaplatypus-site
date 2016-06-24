@@ -20,7 +20,7 @@ Date
 : Closing at 18:00pm
 
 Cost
-: $65 cash, pay at the door
+: Limited tickets available at the door, $65 cash
 
 Prerequisites
 : Bring your laptop, no excuses. **No laptop, No ticket**
@@ -39,6 +39,12 @@ A Game of Platypus Thrones
 Workshops
 : Lockpicking - hosted by topy and klepas
 : Reverse engineering - hosted by lin_s
+
+Lightning Talks
+: Fight club style
+: With whisky - shot required for every additional minute you require
+: 5 min limit
+: Open mic
 
 Sunset Launch Pre-party
 : The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Opera House)
