@@ -22,8 +22,8 @@ Date
 
 Cost
 : $65 cash at the door (does not include t-shirt)
-: $75 cash at the door (includes a sexy platypus t-shirt) - you can let us know your size in advance via on [{{ site.email }}](mailto:{{ site.email }})
-: $60 limited hoodies available on the day
+: $75 cash at the door (includes a sexy platypus t-shirt) - you can let us know your size in advance on [{{ site.email }}](mailto:{{ site.email }})
+: $60 hoodies, limited numbers available on the day
 
 Prerequisites
 : Bring your laptop, no excuses
@@ -57,6 +57,7 @@ Lightning Talks
 : Open mic
 
 ... and much **much** more (SDR, iOS / Android exploitation, Linux, hardware, lessons learned from CTFs etc)
+
 Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages: everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
 
 Sunset Launch Pre-party
