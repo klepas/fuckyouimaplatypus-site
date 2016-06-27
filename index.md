@@ -9,42 +9,55 @@ If you're interested in information security, and willing to spend time and effo
 
 ## PlatypusCon Conference
 
-Ever since Ruxcon departed for Melbourne, the Sydney infosec community has been sorely missing a conference-style event to bring the community together for a few days of sharing ideas, showcasing our projects and drinking.
+Ever since Ruxcon departed for Melbourne, the Sydney infosec community has been sorely missing a conference-style event to bring the community together for a few days of sharing ideas, showcasing our projects and horrendous alcoholism.
 
-In the spirit of what brought this community together, we're aiming to build a more hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a series of labs (think lock-picking tables, SDR workshops, a CTF...) and "lightning (whisky) talk" style events where everyone who wants to participate can.
+In the spirit of what brought this community together, we’re aiming to build a super hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a full day of hands-on workshops where you can get your hands dirty and we can all help each other learn something new.
+Bring your laptop (or phone or tablet or whatever) to get the most out of this event: infact, **bring something you can SSH on or don't come at all**.
 
 Date
 : Saturday 24th September 2016 (ink that in!)
 : Doors open at 9:00am
-: Official welcome at 10:00am
-: Closing at 18:00pm
+: Official welcome at 9:30am
+: Closing at 5:00pm
 
 Cost
-: Limited tickets available at the door, $65 cash
+: $65 cash at the door (does not include t-shirt)
+: $75 cash at the door (includes a sexy platypus t-shirt) - you can let us know your size in advance via on [{{ site.email }}](mailto:{{ site.email }})
+: $60 limited hoodies available on the day
 
 Prerequisites
-: Bring your laptop, no excuses. **No laptop, No ticket**
+: Bring your laptop, no excuses
 : Be prepared to play
 
 Location
 : aMBUSH Gallery -- Level 3, Central Park Mall, 28 Broadway Chippendale NSW 2008
 
-A Game of Platypus Thrones
-: A twist of the traditional capture the flag wargames
-: Capture flags, upgrade your box or attack others
-: Use your platypus coins to buy hints, buy bots, buy insider knowledge about the other teams or bribe the platypus police
+A Game of Flags
+: A twist on the traditional capture the flag wargames
+: Capture flags for platypuscoins, spend them to upgrade your box or attack others
 : Keep your eyes peeled, flags are everywhere
 : Hosted by muld0r
+: Prizes include platypus plushies, because fuck yes [tm]
 
-Workshops
-: Lockpicking - hosted by topy and klepas
-: Reverse engineering - hosted by lin_s
+The Art of Breaking (into stuff. buildings, lockers, whatever)
+: Ever wanted to experiment with picking locks?
+: Pick locks, push pins, pop handcuffs, also don't get in trouble
+: Hosted by topy and klepas
+
+Making Sh*t up with gdb
+: Want to get those sweet, sweet reversing and exploitation flags in CTFs?
+: Have your IDA Pro ready, but not sure where to stick it?
+: Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
+: Hosted by lin_s
 
 Lightning Talks
 : Fight club style
-: With whisky - shot required for every additional minute you require
-: 5 min limit
+: 5 minute limit
+: With fireball shots - shot required for every additional minute you require
 : Open mic
+
+... and much **much** more (SDR, iOS / Android exploitation, Linux, hardware, lessons learned from CTFs etc)
+Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages: everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
 
 Sunset Launch Pre-party
 : The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Opera House)
@@ -57,6 +70,8 @@ Sunrise After-After-Party
 
 The-Morning-After-Brekky-BBQ
 : Some hipster brekky bar
+
+This first year is by us, for us: if you're a platypus and there's no more tickets (or if you're broke as shit, spent your last $4.50 on ramen but want to come anyway), ping lin_s / snail and we'll sort you out :)
 
 ## Community Events
 
