@@ -50,11 +50,9 @@ Making Sh*t up with gdb
 : Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
 : Hosted by lin_s
 
-Lightning Talks
-: Fight club style
-: 5 minute limit
-: With fireball shots - shot required for every additional minute you require
-: Open mic
+Fireball Talks
+: Open mic 5 min lightning rants
+: Shot required for every additional minute required
 
 ... and much **much** more (SDR, iOS / Android exploitation, Linux, hardware, lessons learned from CTFs etc)
 
