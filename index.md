@@ -14,8 +14,6 @@ Ever since Ruxcon departed for Melbourne, the Sydney infosec community has been 
 In the spirit of what brought this community together, we’re aiming to build a super hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a full day of hands-on workshops where you can get your hands dirty and we can all help each other learn something new.
 Bring your laptop (or phone or tablet or whatever) to get the most out of this event: infact, **bring something you can SSH on or don't come at all**.
 
-Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages: everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
-
 Date
 : Saturday 24th September 2016 (ink that in!)
 : Doors open at 9:00am
@@ -29,6 +27,8 @@ Cost
 Prerequisites
 : Bring your laptop, no excuses
 : Be prepared to play
+: Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages: everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
+
 
 Location
 : aMBUSH Gallery -- Level 3, Central Park Mall, 28 Broadway Chippendale NSW 2008
