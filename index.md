@@ -21,9 +21,8 @@ Date
 : Closing at 5:00pm
 
 Cost
-: $65 cash at the door (does not include t-shirt)
-: $75 cash at the door (includes a sexy platypus t-shirt) - you can let us know your size in advance on [{{ site.email }}](mailto:{{ site.email }})
-: $60 hoodies, limited numbers available on the day
+: $75 cash, limited tickets available at the door (includes a sexy platypus t-shirt) 
+: $60 hoodies, limited numbers available on the day - you can let us know your size in advance on [{{ site.email }}](mailto:{{ site.email }})
 
 Prerequisites
 : Bring your laptop, no excuses
