@@ -14,6 +14,8 @@ Ever since Ruxcon departed for Melbourne, the Sydney infosec community has been 
 In the spirit of what brought this community together, we’re aiming to build a super hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a full day of hands-on workshops where you can get your hands dirty and we can all help each other learn something new.
 Bring your laptop (or phone or tablet or whatever) to get the most out of this event: infact, **bring something you can SSH on or don't come at all**.
 
+Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages: everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
+
 Date
 : Saturday 24th September 2016 (ink that in!)
 : Doors open at 9:00am
@@ -21,7 +23,7 @@ Date
 : Closing at 5:00pm
 
 Cost
-: $75 cash, limited tickets available at the door (includes a sexy platypus t-shirt) 
+: Limited tickets available at the door, $75 cash (includes a sexy platypus t-shirt)
 : $60 hoodies, limited numbers available on the day - you can let us know your size in advance on [{{ site.email }}](mailto:{{ site.email }})
 
 Prerequisites
@@ -54,8 +56,6 @@ Fireball Talks
 : Shot required for every additional minute required
 
 ... and much **much** more (SDR, iOS / Android exploitation, Linux, hardware, lessons learned from CTFs etc)
-
-Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages: everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
 
 Sunset Launch Pre-party
 : The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Opera House)
