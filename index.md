@@ -26,8 +26,7 @@ Cost
 
 Prerequisites
 : Bring your laptop, no excuses
-: Be prepared to play
-: Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages: everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
+: Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages; everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
 
 
 Location
@@ -76,10 +75,10 @@ This first year is by us, for us: if you're a platypus and there's no more ticke
 As a group, we frequent many of the community events around Sydney. You'll generally find us at events like:
 
 - Platypus events
-- Sectalks Sydney
-- Ruxmon Sydney
+- Sectalks Sydney: every 3rd Tuesday of the month
+- Ruxmon Sydney: every 3rd Friday of the month
 - CryptoParty Sydney
-- 2600 Sydney
+- 2600 Sydney: every 1st Friday of the month
 
 Our regular [Platypus events](http://www.meetup.com/en-AU/OWASP-Sydney-Web-Application-Security-Group/) gives us the opportunity to do tons of cool security shit like:
 
@@ -99,8 +98,6 @@ CTF
 : Competing, learning and failing in **Capture the Flag** competitions together, working as a team to strengthen our technical skills.
 
 ... and sooo much more.
-
-Check out [Our Calendar](https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23FFFFFF&src=calendar%40letsjusthackshit.org&color=%231B887A&src=letsjusthackshit.org_faab9rp3dv6p5q60fqm80r5gu8%40group.calendar.google.com&color=%236B3304&src=ctftime%40gmail.com&color=%23B1365F&src=dgchlqmn2t1tet4f5ruen9aluc5kol6m%40import.calendar.google.com&color=%236B3304&src=re1qasj6g59ll5sni9he7rm52uf4744t%40import.calendar.google.com&color=%23AB8B00&ctz=Australia%2FSydney) for all the events we crash and organise.
 
 ## Swag
 
