@@ -57,7 +57,7 @@ Fireball Talks
 ... and much **much** more (SDR, iOS / Android exploitation, Linux, hardware, lessons learned from CTFs etc)
 
 Sunset Launch Pre-party
-: The green patch of grass **behind** the State Museum of Contemporary Art (overlooking the Harbour Bridge and Opera House)
+: Some hipster bar
 
 After-Party
 : Some dingy bar
