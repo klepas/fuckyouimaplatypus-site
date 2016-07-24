@@ -22,7 +22,8 @@ Date
 
 Cost
 : Limited tickets available at the door, $75 cash (includes a sexy platypus t-shirt)
-: $60 hoodies, limited numbers available on the day - you can let us know your size in advance on [{{ site.email }}](mailto:{{ site.email }})
+: $60 hoodies, limited numbers available on the day - let us know your size in advance on [{{ site.email }}](mailto:{{ site.email }})
+: This is an 18+ event. Under 18s must be accompanied by a parent (parent will receive complimentary ticket)
 
 Prerequisites
 : Bring your laptop, no excuses
