@@ -23,6 +23,7 @@ Date
 Cost
 : Limited tickets available at the door, $75 cash (includes a sexy platypus t-shirt)
 : $60 hoodies, limited numbers available on the day - let us know your size in advance on [{{ site.email }}](mailto:{{ site.email }})
+: Otherwise book tickets online [here](https://www.eventbrite.com.au/e/platypuscon-teh-platypus-partay-tickets-26222957572">https://www.eventbrite.com.au/e/platypuscon-teh-platypus-partay-tickets-26222957572)
 : This is an 18+ event. Under 18s must be accompanied by a parent (parent will receive complimentary ticket)
 
 Prerequisites
