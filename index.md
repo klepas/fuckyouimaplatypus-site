@@ -30,9 +30,26 @@ Prerequisites
 : Bring your laptop, no excuses
 : Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages; everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
 
-
 Location
 : aMBUSH Gallery -- Level 3, Central Park Mall, 28 Broadway Chippendale NSW 2008
+
+Instead of the usual conference fare of 2 tracks of talks over two days, we're going with a workshop-only format. Each session is intended to be practical in nature instead of someone standing up the front and talking at people. This year, we've lined up a full day of content, with some never-before-seen content, including:
+
+Workshops
+- Making sh*t up with GDB
+- Attacking Firmware Binaries
+- Antenna Building
+- IR Spoofing to Unlock Alarms
+- Bug Bounties
+- Wireless Enterprise Pentesting
+- iOS funstuff
+- Drone Hacking
+- Fuzzing with Rabbits for Fun and Profit
+- Windows Domains
+- Texting over Radio
+- Reversing Remote Control Doorbells
+- The Firefox Sandbox
+- Red Star OS / Google Earth
 
 A Game of Flags
 : A twist on the traditional capture the flag wargames
@@ -46,29 +63,14 @@ The Art of Breaking (into stuff. buildings, lockers, whatever)
 : Pick locks, push pins, pop handcuffs, also don't get in trouble
 : Hosted by topy and klepas
 
-Making Sh*t up with gdb
-: Want to get those sweet, sweet reversing and exploitation flags in CTFs?
-: Have your IDA Pro ready, but not sure where to stick it?
-: Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
-: Hosted by lin_s
-
 Fireball Talks
 : Open mic 5 min lightning rants
 : Shot required for every additional minute required
 
 ... and much **much** more (SDR, iOS / Android exploitation, Linux, hardware, lessons learned from CTFs etc)
 
-Sunset Launch Pre-party
-: Some hipster bar
-
 After-Party
 : Some dingy bar
-
-Sunrise After-After-Party
-: Some penthouse, which all are welcome to crash at
-
-The-Morning-After-Brekky-BBQ
-: Some hipster brekky bar
 
 This first year is by us, for us: if you're a platypus and there's no more tickets (or if you're broke as shit, spent your last $4.50 on ramen but want to come anyway), ping lin_s / snail and we'll sort you out :)
 
@@ -76,13 +78,12 @@ This first year is by us, for us: if you're a platypus and there's no more ticke
 
 As a group, we frequent many of the community events around Sydney. You'll generally find us at events like:
 
-- Platypus events
 - Sectalks Sydney: every 3rd Tuesday of the month
 - Ruxmon Sydney: every 3rd Friday of the month
 - CryptoParty Sydney
 - 2600 Sydney: every 1st Friday of the month
 
-Our regular [Platypus events](http://www.meetup.com/en-AU/OWASP-Sydney-Web-Application-Security-Group/) gives us the opportunity to do tons of cool security shit like:
+Our semi-regular [Platypus events](http://www.meetup.com/en-AU/OWASP-Sydney-Web-Application-Security-Group/) gives us the opportunity to do tons of cool security shit like:
 
 Workshops
 : We get together to talk about new technology ideas, similar to a university-style "lab" session.
@@ -110,4 +111,3 @@ If you missed out on our swag,
 
 Want to support us? Or just bug us with questions? We're reachable on [{{ site.email }}](mailto:{{ site.email }}).
 Or find us on [twitter](https://twitter.com/platypuspartay).
-Or find other platypodes on our [LinkedIn group](https://www.linkedin.com/groups/7051231/).
