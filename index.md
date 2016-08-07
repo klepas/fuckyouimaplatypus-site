@@ -36,20 +36,20 @@ Location
 Instead of the usual conference fare of 2 tracks of talks over two days, we're going with a workshop-only format. Each session is intended to be practical in nature instead of someone standing up the front and talking at people. This year, we've lined up a full day of content, with some never-before-seen content, including:
 
 Workshops
-- Making sh*t up with GDB
-- Attacking Firmware Binaries
-- Antenna Building
-- IR Spoofing to Unlock Alarms
-- Bug Bounties
-- Wireless Enterprise Pentesting
-- iOS funstuff
-- Drone Hacking
-- Fuzzing with Rabbits for Fun and Profit
-- Windows Domains
-- Texting over Radio
-- Reversing Remote Control Doorbells
-- The Firefox Sandbox
-- Red Star OS / Google Earth
+: Making sh*t up with GDB
+: Attacking Firmware Binaries
+: Antenna Building
+: IR Spoofing to Unlock Alarms
+: Bug Bounties
+: Wireless Enterprise Pentesting
+: iOS funstuff
+: Drone Hacking
+: Fuzzing with Rabbits for Fun and Profit
+: Windows Domains
+: Texting over Radio
+: Reversing Remote Control Doorbells
+: The Firefox Sandbox
+: Red Star OS / Google Earth
 
 A Game of Flags
 : A twist on the traditional capture the flag wargames
