@@ -38,21 +38,19 @@ Instead of the usual conference fare of 2 tracks of talks over two days, we're g
 
 Workshops
 : Antennae for every Occassion
-
-  - A hands on workshop on selecting the right antenna for the job and building it. The workshop will be going over: types of antenna and their features; what you need to build one; how to test your antenna; building a few as a group
-  - Hosted by Chris and Ash
-  - Chris works fixing things in IT during the day and breaks things the rest of the time. He lives with his wife on the outskirts of Melbourne and is interested in sustainable living.
-  - Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne.
-  - Chris and Ash became friends in highschool and have spent the last 20 years working on electronics projects together
+	: A hands on workshop on selecting the right antenna for the job and building it. The workshop will be going over: types of antenna and their features; what you need to build one; how to test your antenna; building a few as a group
+  : Hosted by Chris and Ash
+  : Chris works fixing things in IT during the day and breaks things the rest of the time. He lives with his wife on the outskirts of Melbourne and is interested in sustainable living.
+  : Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne.
+  : Chris and Ash became friends in highschool and have spent the last 20 years working on electronics projects together
   
 : Attacking Firmware Binaries
 : Bug Bounties
 : Ding dong. Who's there? EVERYONE
-
-  - Reverse engineering an RF device and reproducing the signal using a Yard Stick One
-  - Participants should bring: a Linux or Mac laptop with the following software installed: Inspectrum [https://github.com/miek/inspectrum](https://github.com/miek/inspectrum) - Required for participation; and some sort of text editor
-  - Hosted by Très Acton 
-  - Très Acton is a Penetration Tester and Security Researcher at Threat Intelligence. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
+	Reverse engineering an RF device and reproducing the signal using a Yard Stick One
+	Participants should bring: a Linux or Mac laptop with the following software installed: Inspectrum [https://github.com/miek/inspectrum](https://github.com/miek/inspectrum) - Required for participation; and some sort of text editor
+	Hosted by Très Acton 
+	Très Acton is a Penetration Tester and Security Researcher at Threat Intelligence. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
 
 : Drone Hacking
 : Fuzzing with Rabbits for Fun and Profit
