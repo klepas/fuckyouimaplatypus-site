@@ -43,42 +43,34 @@ Workshops
   : Chris works fixing things in IT during the day and breaks things the rest of the time. He lives with his wife on the outskirts of Melbourne and is interested in sustainable living.
   : Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne.
   : Chris and Ash became friends in highschool and have spent the last 20 years working on electronics projects together
-  
 : Attacking Firmware Binaries
 : Bug Bounties
 : Ding dong. Who's there? EVERYONE
-	Reverse engineering an RF device and reproducing the signal using a Yard Stick One
-	Participants should bring: a Linux or Mac laptop with the following software installed: Inspectrum [https://github.com/miek/inspectrum](https://github.com/miek/inspectrum) - Required for participation; and some sort of text editor
-	Hosted by Très Acton 
-	Très Acton is a Penetration Tester and Security Researcher at Threat Intelligence. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
-
+	: Reverse engineering an RF device and reproducing the signal using a Yard Stick One
+	: Participants should bring: a Linux or Mac laptop with the following software installed: Inspectrum [https://github.com/miek/inspectrum](https://github.com/miek/inspectrum) - Required for participation; and some sort of text editor
+	: Hosted by Très Acton 
+	: Très Acton is a Penetration Tester and Security Researcher at Threat Intelligence. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
 : Drone Hacking
 : Fuzzing with Rabbits for Fun and Profit
-
-  - Fuzzing is the art of applying random data in the hopes of finding inputs to programs that cause unexpected behaviors 
-  - Traditionally, this has taken a deterministic approach which is akin to something to do with monkeys, typewriters, and Shakespeare
-  - Enter american fuzzy lop (afl), not just a weird looking bunny [1], but actually a new generation fuzzer from Google that takes into account code coverage
-  - This workshop will give a brief overview of afl-fuzz, show off its features, and gives an example of things Hugh has found, and how much bounty has been made
-  - Comparisons to other fuzzers will be made
-  - Hosted by Hugh
-  - Hugh is a software developer and security consultant based in Wellington, NZ. He has an interest in bounties, fuzzing and training
-
+	: Fuzzing is the art of applying random data in the hopes of finding inputs to programs that cause unexpected behaviors 
+  : Traditionally, this has taken a deterministic approach which is akin to something to do with monkeys, typewriters, and Shakespeare
+  : Enter american fuzzy lop (afl), not just a weird looking bunny [1], but actually a new generation fuzzer from Google that takes into account code coverage
+	: This workshop will give a brief overview of afl-fuzz, show off its features, and gives an example of things Hugh has found, and how much bounty has been made
+	: Comparisons to other fuzzers will be made
+ 	: Hosted by Hugh
+	: Hugh is a software developer and security consultant based in Wellington, NZ. He has an interest in bounties, fuzzing and training
 : iOS Funstuff
 : IR Spoofing to Unlock Alarms
 : Making sh*t up with GDB
-
-  - Want to get those sweet, sweet reversing and exploitation flags in CTFs?
-  - Have your IDA Pro ready, but not sure where to stick it?
-  - Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
-  - Hosted by lin_s
-
+	: Want to get those sweet, sweet reversing and exploitation flags in CTFs?
+	: Have your IDA Pro ready, but not sure where to stick it?
+	: Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
+	: Hosted by lin_s
 : Red Star OS / Google Earth
 : Talking ASCII over the Airwaves
-
-  - This workshop will walk you through how to make a simple broadcast chat server using GNU Radio Companion. Don't worry if you don't have a transmitting SDR like a HackRF, we will also be showing you how to use your audio card so everyone can participate!
-  - Hosted by pamela
-  - Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
-
+  : This workshop will walk you through how to make a simple broadcast chat server using GNU Radio Companion. Don't worry if you don't have a transmitting SDR like a HackRF, we will also be showing you how to use your audio card so everyone can participate!
+  : Hosted by pamela
+  : Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
 : The Firefox Sandbox
 : Windows Domains
 : Wireless Enterprise Pentesting
