@@ -11,45 +11,50 @@ If you're interested in information security, and willing to spend time and effo
 
 Ever since Ruxcon departed for Melbourne, the Sydney infosec community has been sorely missing a conference-style event to bring the community together for a few days of sharing ideas, showcasing our projects and horrendous alcoholism.
 
-In the spirit of what brought this community together, we’re aiming to build a super hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a full day of hands-on workshops where you can get your hands dirty and we can all help each other learn something new.
+In the spirit of what brought this community together, we're aiming to build a super hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a full day of hands-on workshops where you can get your hands dirty and we can all help each other learn something new.
 Bring your laptop (or phone or tablet or whatever) to get the most out of this event: infact, **bring something you can SSH on or don't come at all**.
 
 Date
 : Saturday 24th September 2016 (ink that in!)
 : Doors open at 9:00am
-: Official welcome at 9:30am
-: Closing at 5:00pm
+: Official welcome at 9:45am
+: Closing at 6:30pm
 
 Cost
 : Book tickets [online](https://www.eventbrite.com.au/e/platypuscon-teh-platypus-partay-tickets-26222957572">https://www.eventbrite.com.au/e/platypuscon-teh-platypus-partay-tickets-26222957572)
 : Limited tickets available at the door, $75 cash (includes a sexy platypus t-shirt)
-: $60 hoodies, limited numbers available on the day - let us know your size in advance on [{{ site.email }}](mailto:{{ site.email }})
+: $60 hoodies, limited numbers available on the day
+: Let us know your size in advance to avoid disappointment [{{ site.email }}](mailto:{{ site.email }})
 : This is an 18+ event. If you're still super keen to come, enquire within and we'll work something out
 
 Prerequisites
 : Bring your laptop, no excuses
-: Think of it like nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages; everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
+: Think of it like a nerd fight club: it doesn't matter if you're new to this infosec thing, or you've been at it for ages; everyone's expected to participate, and you won't find it fun if you're expecting to just come and sit and listen to other people's work.
 
 Location
 : aMBUSH Gallery -- Level 3, Central Park Mall, 28 Broadway Chippendale NSW 2008
 
-Instead of the usual conference fare of 2 tracks of talks over two days, we're going with a workshop-only format. Each session is intended to be practical in nature instead of someone standing up the front and talking at people. This year, we've lined up a full day of content, with some never-before-seen content, including:
+Instead of the usual conference fare of 2 tracks of talks over two days, we're going with a workshop-only format. Drop in and drop out as you please. Each session is intended to be practical in nature instead of someone standing up the front and talking at people. This year, we've lined up a full day of content, with some never-before-seen content, including:
 
 Workshops
-: Making sh*t up with GDB
+: Antennae for every Occassion
 : Attacking Firmware Binaries
-: Antenna Building
-: IR Spoofing to Unlock Alarms
 : Bug Bounties
-: Wireless Enterprise Pentesting
-: iOS funstuff
+: Ding dong. Who's there? EVERYONE
 : Drone Hacking
 : Fuzzing with Rabbits for Fun and Profit
-: Windows Domains
-: Texting over Radio
-: Reversing Remote Control Doorbells
-: The Firefox Sandbox
+: iOS Funstuff
+: IR Spoofing to Unlock Alarms
+: Making sh*t up with GDB
+  - Want to get those sweet, sweet reversing and exploitation flags in CTFs?</dd>
+  - Have your IDA Pro ready, but not sure where to stick it?</dd>
+  - Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?</dd>
+  - Hosted by lin_s</dd>
 : Red Star OS / Google Earth
+: Talking ASCII over the Airwaves
+: The Firefox Sandbox
+: Windows Domains
+: Wireless Enterprise Pentesting
 
 A Game of Flags
 : A twist on the traditional capture the flag wargames
@@ -66,8 +71,6 @@ The Art of Breaking (into stuff. buildings, lockers, whatever)
 Fireball Talks
 : Open mic 5 min lightning rants
 : Shot required for every additional minute required
-
-... and much **much** more (SDR, iOS / Android exploitation, Linux, hardware, lessons learned from CTFs etc)
 
 After-Party
 : Some dingy bar
