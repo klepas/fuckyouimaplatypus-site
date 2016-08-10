@@ -43,8 +43,8 @@ Workshops
 	: Chris works fixing things in IT during the day and breaks things the rest of the time. He lives with his wife on the outskirts of Melbourne and is interested in sustainable living.
 	: Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne.
 	: Chris and Ash became friends in highschool and have spent the last 20 years working on electronics projects together
-: Attacking Firmware Binaries
-	: Hosted by lin_s + gavia
+- Attacking Firmware Binaries
+	- Hosted by lin_s + gavia
 : Bug Bounties
 	: Hosted by shubs
 : Ding dong. Who's there? EVERYONE
