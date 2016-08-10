@@ -39,10 +39,10 @@ Instead of the usual conference fare of 2 tracks of talks over two days, we're g
 Workshops
 : Antennae for every Occassion
 	: A hands on workshop on selecting the right antenna for the job and building it. The workshop will be going over: types of antenna and their features; what you need to build one; how to test your antenna; building a few as a group
-  : Hosted by Chris and Ash
-  : Chris works fixing things in IT during the day and breaks things the rest of the time. He lives with his wife on the outskirts of Melbourne and is interested in sustainable living.
-  : Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne.
-  : Chris and Ash became friends in highschool and have spent the last 20 years working on electronics projects together
+	: Hosted by Chris and Ash
+	: Chris works fixing things in IT during the day and breaks things the rest of the time. He lives with his wife on the outskirts of Melbourne and is interested in sustainable living.
+	: Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne.
+	: Chris and Ash became friends in highschool and have spent the last 20 years working on electronics projects together
 : Attacking Firmware Binaries
 : Bug Bounties
 : Ding dong. Who's there? EVERYONE
@@ -53,11 +53,11 @@ Workshops
 : Drone Hacking
 : Fuzzing with Rabbits for Fun and Profit
 	: Fuzzing is the art of applying random data in the hopes of finding inputs to programs that cause unexpected behaviors 
-  : Traditionally, this has taken a deterministic approach which is akin to something to do with monkeys, typewriters, and Shakespeare
-  : Enter american fuzzy lop (afl), not just a weird looking bunny [1], but actually a new generation fuzzer from Google that takes into account code coverage
+	: Traditionally, this has taken a deterministic approach which is akin to something to do with monkeys, typewriters, and Shakespeare
+	: Enter american fuzzy lop (afl), not just a weird looking bunny [1], but actually a new generation fuzzer from Google that takes into account code coverage
 	: This workshop will give a brief overview of afl-fuzz, show off its features, and gives an example of things Hugh has found, and how much bounty has been made
 	: Comparisons to other fuzzers will be made
- 	: Hosted by Hugh
+	: Hosted by Hugh
 	: Hugh is a software developer and security consultant based in Wellington, NZ. He has an interest in bounties, fuzzing and training
 : iOS Funstuff
 : IR Spoofing to Unlock Alarms
@@ -68,9 +68,9 @@ Workshops
 	: Hosted by lin_s
 : Red Star OS / Google Earth
 : Talking ASCII over the Airwaves
-  : This workshop will walk you through how to make a simple broadcast chat server using GNU Radio Companion. Don't worry if you don't have a transmitting SDR like a HackRF, we will also be showing you how to use your audio card so everyone can participate!
-  : Hosted by pamela
-  : Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
+	: This workshop will walk you through how to make a simple broadcast chat server using GNU Radio Companion. Don't worry if you don't have a transmitting SDR like a HackRF, we will also be showing you how to use your audio card so everyone can participate!
+	: Hosted by pamela
+	: Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
 : The Firefox Sandbox
 : Windows Domains
 : Wireless Enterprise Pentesting
