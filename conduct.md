@@ -19,6 +19,6 @@ Say hi to each other.
 : While we may disagree with one another on matters of technology, that doesn't define who we are. Be nice to each other.
 : Especially new people / first timers. Remember, everyone was new once, and our industry isn't the most welcoming.
 
-Everyone is expected to abide by these guidelines, from staff to first-timers. In cases where people are being made to feel uncomfortable or illegal behavior is reported (and the behavior doesn't immediately stop), we reserve the remove participants from any Platypus event, or refuse entry, without refund.
+Everyone is expected to abide by these guidelines, from staff to first-timers. In cases where people are being made to feel uncomfortable or illegal behavior is reported (and the behavior doesn't immediately stop), we reserve the right to remove participants from any Platypus event, or refuse entry, without refund.
 
 Remember: this community belongs to all of us, and it's what we make it :)
