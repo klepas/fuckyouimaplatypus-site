@@ -51,7 +51,7 @@ Workshops
 	: Reverse engineering an RF device and reproducing the signal using a Yard Stick One
 	: Participants should bring: a Linux or Mac laptop with the following software installed: Inspectrum [https://github.com/miek/inspectrum](https://github.com/miek/inspectrum) - Required for participation; and some sort of text editor
 	: Hosted by Très Acton 
-	: Très Acton is a Penetration Tester and Security Researcher at Threat Intelligence. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
+	: Très Acton is a Penetration Tester and Security Researcher. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
 : Drone Hacking
 	: Hosted by Mike + Jeff
 : Fuzzing with Rabbits for Fun and Profit
