@@ -100,17 +100,17 @@ Fireball Talks
 : Open mic 5 min lightning rants
 : Shot required for every additional minute required
 
-Pre-Party Sunset Launch
-: Umm, a bar?
+Sunset Pre-Party
+: Some hipster bar
 
 After-Party
 : Some dingy bar
 
 After-After-Party
-: Some kickass penthouse
+: Some shenanigans at a penthouse
 
-Morning-After-Party
-: Decommissionary brekky bbq
+Morning-After-Brekky-BBQ
+: Decommissionary hipster brekky bar
 : Did someone say laser tag?
 
 This first year is by us, for us: if you're a platypus and there's no more tickets (or if you're broke as shit, spent your last $4.50 on ramen but want to come anyway), ping lin_s / snail and we'll sort you out :)
