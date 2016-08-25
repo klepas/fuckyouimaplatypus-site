@@ -44,6 +44,9 @@ Workshops
 	: Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne.
 	: Chris and Ash became friends in highschool and have spent the last 20 years working on electronics projects together
 : Attacking Firmware Binaries
+	: This workshop covers reverse engineering coherent file systems from firmware updates for a few common devices, including both traditional network devices (e.g. 4g dongles) as well as IOT devices
+	: Participants should bring a Linux system / VM, with binwalk and firmware-mod-kit installed (from github). This workshop will reference content in IDA Pro, but IDA is not required.
+	: No experience is required (we're both scrublords). Some general Linux knowledge is assumed.
 	: Hosted by lin_s + gavia
 : Bug Bounties
 	: Hosted by shubs
@@ -66,11 +69,6 @@ Workshops
 	: Hosted by mg
 : IR Spoofing to Unlock Alarms
 	: Hosted by Silvio + Kylie
-: Making sh*t up with GDB
-	: Want to get those sweet, sweet reversing and exploitation flags in CTFs?
-	: Have your IDA Pro ready, but not sure where to stick it?
-	: Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
-	: Hosted by lin_s
 : Red Star OS / Google Earth
 	: Hosted by saty
 : Talking ASCII over the Airwaves
