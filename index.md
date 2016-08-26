@@ -67,10 +67,13 @@ Workshops
 	: Hugh is a software developer and security consultant based in Wellington, NZ. He has an interest in bounties, fuzzing and training
 : iOS Funstuff
 	: Hosted by mg
-: IR Spoofing to Unlock Alarms
+: Hardware Magic
 	: Hosted by Silvio + Kylie
-: Red Star OS / Google Earth
-	: Hosted by saty
+: Red Star OS - breaking out of the gulag (sandbox)
+	: Red Star OS is a home grown, closed-source Linux distribution produced by the DPRK (North Korea). This tutorial will demonstrate how to install it in a VM, configure English localiSation, and break out of the unprivileged sandbox to gain root access
+	: Attendees will be left with a few thoughts for future investigation of the system
+	: Hosted by David Jorm
+	: David is an OG security nerd whose interests include Java RCE, long walks on the beach, Glorious Democratic Peoples Republic of Korea, software-defined networking, and smashing the kyriarchy
 : Talking ASCII over the Airwaves
 	: This workshop will walk you through how to make a simple broadcast chat server using GNU Radio Companion. Don't worry if you don't have a transmitting SDR like a HackRF, we will also be showing you how to use your audio card so everyone can participate!
 	: Hosted by pamela
