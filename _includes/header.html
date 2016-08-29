@@ -23,6 +23,20 @@ _|    _|    _|_|_|    _|_|_|  _|    _|     _|_|_|    _|    _|  _|      _|_|
 
     <p class="site-description">{{ site.description }}</p>
 
+    <p>
+    <table>
+       <tr>
+        {% for node in site.pages %}
+          {% if page.url == node.url %}
+          {% else %}
+            <td><a href="{{node.url}}">{{node.title}}</a></td>
+          {% endif %}
+            <td><a href="{{node.url}}">{{node.title}}</a></td>
+        {% endfor %} 
+       </tr>
+    </table>
+    </p>
+
     {% include fu-platy.html %}
     {{ page.abstract | markdownify }}
 
