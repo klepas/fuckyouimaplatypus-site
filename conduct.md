@@ -1,5 +1,6 @@
 ---
 layout: fuckyouimaplatypus
+title: codeofconduct
 permalink: /conduct
 ---
 
