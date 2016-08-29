@@ -1,6 +1,6 @@
 ---
 layout: fuckyouimaplatypus
-abstract: Our community is built on the principle of helping each other better ourselves through challenging our own ideas and sharing differing opinions in a safe and non-judgemental environment. We intend to be an inclusive community - we welcome all, regardless of what you look like, where you come from or what you believe in - as long as you are willing to contribute. To enable this, there's a small set of housekeeping rules which everyone is expected to abide by, as laid out in our code of conduct.
+permalink: /conduct
 ---
 
 ## Code of Conduct
