@@ -70,6 +70,11 @@ Workshops
 	: Hosted by mg
 : Hardware Magic
 	: Hosted by Silvio + Kylie
+: Lessons Learned from CTFs
+	:Want to get those sweet, sweet flags in CTFs?
+	: Have your IDA Pro ready, but not sure where to stick it?
+	: Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
+	: Hosted by ctfkris
 : Red Star OS - breaking out of the gulag (sandbox)
 	: Red Star OS is a home grown, closed-source Linux distribution produced by the DPRK (North Korea). This tutorial will demonstrate how to install it in a VM, configure English localiSation, and break out of the unprivileged sandbox to gain root access
 	: Attendees will be left with a few thoughts for future investigation of the system
@@ -81,7 +86,7 @@ Workshops
 	: Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
 : The Firefox Sandbox
 	: Hosted by pauljt
-: Windows Domains
+: Windows Priv Esc
 	: Hosted by synick
 : Wireless Enterprise Pentesting
 	: Hosted by y011
