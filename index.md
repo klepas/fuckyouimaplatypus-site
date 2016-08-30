@@ -66,12 +66,17 @@ Workshops
 	: Comparisons to other fuzzers will be made
 	: Hosted by Hugh
 	: Hugh is a software developer and security consultant based in Wellington, NZ. He has an interest in bounties, fuzzing and training
+: Hacking All the Windows Domains
+	: Name any organisation and it is guaranteed that they are running some kind of Windows Domain with Active Directory. This workshop aims at exposing attendees to the types of techniques used to establish a foothold on a network, escalate their privileges and then laterally move to compromise key servers
+	: Highlights from the workshop include: Active and Passive Reconnaissance; Vulnerability Discovery; Vulnerability Confirmation; Vulnerability Analysis; Establishing a foothold; Privilege Escalation; Lateral Movement; andDomain Compromise
+	: Hosted by Lukasz (SyNick)
+	: Lukasz is a managing consultant with Alcorn Group, a Brisbane based security consultancy firm
+: Hardware Magic
+	: Hosted by Silvio + Kylie	
 : iOS Funstuff
 	: Hosted by mg
-: Hardware Magic
-	: Hosted by Silvio + Kylie
 : Lessons Learned from CTFs
-	:Want to get those sweet, sweet flags in CTFs?
+	: Want to get those sweet, sweet flags in CTFs?
 	: Have your IDA Pro ready, but not sure where to stick it?
 	: Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
 	: Hosted by ctfkris
@@ -86,8 +91,6 @@ Workshops
 	: Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
 : The Firefox Sandbox
 	: Hosted by pauljt
-: Windows Priv Esc
-	: Hosted by synick
 : Wireless Enterprise Pentesting
 	: Hosted by y011
 
