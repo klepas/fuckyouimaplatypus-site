@@ -57,15 +57,14 @@ Workshops
 	: Hosted by Très Acton 
 	: Très Acton is a Penetration Tester and Security Researcher. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
 : Drone Hacking for Beginners
-	: Drone hacking for beginners
 	: Ever wanted to walk out of a workshop with a viable skill set and practical knowledge, ready to impress the government your friends and family? 
 	: You will be leaving this session with the skills to hack a very popular consumer drone; and the methodologies to attack and defend others like it. You may even open yourself up to future employment as a ‘Drone Security Engineer’ 
-	: We will be guiding participants through different attack levels; from live camera feed interception, to file system access, and real-time hijacking of controls:
+	: We will be guiding participants through different attack levels; from live camera feed interception, to file system access, and real-time hijacking of controls
 	: A final competition will be held to challenge attackers to gain control of a drone, and defend their access from other players
 	: This workshop is beginner friendly. If you own one, please bring an external wireless adapter (e.g. an Alpha, TP-Link etc) that supports monitor mode
 	: Hosted by Mike and Jeff
-	: Mike and Jeff both work as penetration testers in Melbourne. 
-	: Michael (@securitymeta_) is a co-organiser of SecTalks Melbourne (@sectalks_MEL) and spends his time on OSINT, startups, and CTFs
+	: Mike and Jeff both work as penetration testers in Melbourne
+	: Michael (@securitymeta\_) is a co-organiser of SecTalks Melbourne (@sectalks_MEL) and spends his time on OSINT, startups, and CTFs
 	: Jeff (@d4rkt1d3) is passionate about wireless and drone security, and recently oversaw a large industry-based drone hacking research project
 : Fuzzing with Rabbits for Fun and Profit
 	: Fuzzing is the art of applying random data in the hopes of finding inputs to programs that cause unexpected behaviors 
