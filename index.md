@@ -38,19 +38,19 @@ Location
 Instead of the usual conference fare of 2 tracks of talks over two days, we're going with a workshop-only format. Drop in and drop out as you please. Each session is intended to be practical in nature instead of someone standing up the front and talking at people. This year, we've lined up a full day of content, with some never-before-seen content, including:
 
 Schedule
-| Time | Stream A | Stream B | Stream C | Stream D | Stream E
+| Time | Stream A | Stream B | Stream C | Stream D | Stream E |
 
 Workshops
 : Antennae for every Occassion
 	: A hands on workshop on selecting the right antenna for the job and building it. The workshop will be going over: types of antenna and their features; what you need to build one; how to test your antenna; building a few as a group
 	: Hosted by Chris and Ash
-	: Chris works fixing things in IT during the day and breaks things the rest of the time. He lives with his wife on the outskirts of Melbourne and is interested in sustainable living.
-	: Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne.
+	: Chris works fixing things in IT during the day and breaks things the rest of the time. He lives with his wife on the outskirts of Melbourne and is interested in sustainable living
+	: Ash works in electronics and spends his time working on electronic and radio projects. He lives with his wife in the hills just outside of Melbourne
 	: Chris and Ash became friends in highschool and have spent the last 20 years working on electronics projects together
 : Attacking Firmware Binaries
 	: This workshop covers reverse engineering coherent file systems from firmware updates for a few common devices, including both traditional network devices (e.g. 4g dongles) as well as IOT devices
-	: Participants should bring a Linux system / VM, with binwalk and firmware-mod-kit installed (from github). This workshop will reference content in IDA Pro, but IDA is not required.
-	: No experience is required (we're both scrublords). Some general Linux knowledge is assumed.
+	: Participants should bring a Linux system / VM, with binwalk and firmware-mod-kit installed (from github). This workshop will reference content in IDA Pro, but IDA is not required
+	: No experience is required (we're both scrublords). Some general Linux knowledge is assumed
 	: Hosted by lin_s + gavia
 : Bug Bounties
 	: Hosted by shubs
@@ -61,7 +61,7 @@ Workshops
 	: Très Acton is a Penetration Tester and Security Researcher. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
 : Drone Hacking for Beginners
 	: Ever wanted to walk out of a workshop with a viable skill set and practical knowledge, ready to impress the government your friends and family? 
-	: You will be leaving this session with the skills to hack a very popular consumer drone; and the methodologies to attack and defend others like it. You may even open yourself up to future employment as a ‘Drone Security Engineer’ 
+	: You will be leaving this session with the skills to hack a very popular consumer drone; and the methodologies to attack and defend others like it. You may even open yourself up to future employment as a 'Drone Security Engineer'
 	: We will be guiding participants through different attack levels; from live camera feed interception, to file system access, and real-time hijacking of controls
 	: A final competition will be held to challenge attackers to gain control of a drone, and defend their access from other players
 	: This workshop is beginner friendly. If you own one, please bring an external wireless adapter (e.g. an Alpha, TP-Link etc) that supports monitor mode
