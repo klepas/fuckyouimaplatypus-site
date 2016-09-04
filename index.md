@@ -83,7 +83,7 @@ Workshops
 	: Hosted by Lukasz (SyNick)
 	: Lukasz is a managing consultant with Alcorn Group, a Brisbane based security consultancy firm
 : Hardware Magic
-	: Hosted by Silvio + Kylie	
+	: Hosted by Silvio	
 : iOS Funstuff
 	: Hosted by mg
 : Lessons Learned from CTFs
