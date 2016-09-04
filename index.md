@@ -38,7 +38,23 @@ Location
 Instead of the usual conference fare of 2 tracks of talks over two days, we're going with a workshop-only format. Drop in and drop out as you please. Each session is intended to be practical in nature instead of someone standing up the front and talking at people. This year, we've lined up a full day of content, with some never-before-seen content, including:
 
 Schedule
-| Time | Stream A | Stream B | Stream C | Stream D | Stream E |
++=============+================+============+====================+==================+================+ 
+  Time         Stream A         Stream B     Stream C             Stream D           Stream E     
++=============+================+============+====================+==================+================+ 
+  09:00-09:45   Doors open / registration                                                                 
+  09:45-10:30   Keynote by lin_s                                                                        
+  10:30-12:00   Antennas         Hardware     Lockpicking          CTF 101            Drones          
+                by Chris + Ash   by Silvio    (by topy + klepas)   by ctkris          by Mike + Jeff  
+  12:00-13:00   SDR              GDB          + CTF                Red Star           Doorbells       
+                by pamela        by pauljt    (by muld0r)          by David           by Tres          
+  13:00-14:00   Lunch                                                                                   
+  14:00-15:30   Wireless         Pentesting   Lockpicking          Bounties           Drones          
+                by y011          by Lukasz    (by topy + klepas)   by Shubs           by Mike + Jeff  
+  15:30-17:00   IOS              Fuzzing      + CTF                Firmware           Drones CTF      
+                by mg            by Hugh      (by muld0r)          by lin_s + gavia   by Mike + Jeff  
+  17:00-18:00   Fireball talks                                                                          
+  18:00-18:15   Closing ceremony                                                                        
++=============+================+============+====================+==================+================+
 
 Workshops
 : Antennae for every Occassion
