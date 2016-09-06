@@ -76,8 +76,7 @@ Workshops
 	: Hosted by Très Acton 
 	: Très Acton is a Penetration Tester and Security Researcher. He is passionate about physical security, social engineering, brewing beer, playing with fire, and learning as much as he can about Software Defined Radio
 : Drone Hacking for Beginners
-	: Ever wanted to walk out of a workshop with a viable skill set and practical knowledge, ready to impress the government your friends and family? 
-	: You will be leaving this session with the skills to hack a very popular consumer drone; and the methodologies to attack and defend others like it. You may even open yourself up to future employment as a 'Drone Security Engineer'
+	: Ever wanted to walk out of a workshop with a viable skill set and practical knowledge, ready to impress the government your friends and family? You will be leaving this session with the skills to hack a very popular consumer drone; and the methodologies to attack and defend others like it. You may even open yourself up to future employment as a 'Drone Security Engineer'
 	: We will be guiding participants through different attack levels; from live camera feed interception, to file system access, and real-time hijacking of controls
 	: A final competition will be held to challenge attackers to gain control of a drone, and defend their access from other players
 	: This workshop is beginner friendly. If you own one, please bring an external wireless adapter (e.g. an Alpha, TP-Link etc) that supports monitor mode
@@ -89,13 +88,12 @@ Workshops
 	: Fuzzing is the art of applying random data in the hopes of finding inputs to programs that cause unexpected behaviors 
 	: Traditionally, this has taken a deterministic approach which is akin to something to do with monkeys, typewriters, and Shakespeare
 	: Enter american fuzzy lop (afl), not just a weird looking bunny [1], but actually a new generation fuzzer from Google that takes into account code coverage
-	: This workshop will give a brief overview of afl-fuzz, show off its features, and gives an example of things Hugh has found, and how much bounty has been made
-	: Comparisons to other fuzzers will be made
+	: This workshop will give a brief overview of afl-fuzz, show off its features, and gives an example of things Hugh has found, and how much bounty has been made. Comparisons to other fuzzers will be made
 	: Hosted by Hugh
 	: Hugh is a software developer and security consultant based in Wellington, NZ. He has an interest in bounties, fuzzing and training
 : Hacking All the Windows Domains
 	: Name any organisation and it is guaranteed that they are running some kind of Windows Domain with Active Directory. This workshop aims at exposing attendees to the types of techniques used to establish a foothold on a network, escalate their privileges and then laterally move to compromise key servers
-	: Highlights from the workshop include: Active and Passive Reconnaissance; Vulnerability Discovery; Vulnerability Confirmation; Vulnerability Analysis; Establishing a foothold; Privilege Escalation; Lateral Movement; andDomain Compromise
+	: Highlights from the workshop include: Active and Passive Reconnaissance; Vulnerability Discovery; Vulnerability Confirmation; Vulnerability Analysis; Establishing a foothold; Privilege Escalation; Lateral Movement; and Domain Compromise
 	: Hosted by Lukasz (SyNick)
 	: Lukasz is a managing consultant with Alcorn Group, a Brisbane based security consultancy firm
 : Hardware Magic
