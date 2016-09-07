@@ -115,7 +115,10 @@ Workshops
 	: Hosted by pamela
 	: Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
 : The Firefox Sandbox
-	: Hosted by pauljt
+	: Hosted by pauljt (BSCE, PCI DSS(ex)) Esq.
+	: When faced with a challenge Paul Theriault, BSCE, PCI DSS(ex), doesn't back down, he does what all good Managers do: delegate.
+	: Today's problem: find faults in browser Web API code. Using a unique 'git clone'-based approach, we will learn how to leverage the hard work of the Firefox fuzzing team to identify software faults.
+	: We'll explore the basics of using a grammar-based fuzzing approach to find weaknesses in DOM APIs and compete for pride, fame and illustrious bounties
 : Wireless Enterprise Pentesting
 	: Hosted by y011
 
