@@ -45,8 +45,8 @@ Schedule
   09:45-10:30   Keynote by lin_s                                                                        
   10:30-12:00   Antennas         Hardware     Lockpicking          CTF 101            Drones          
                 by Chris + Ash   by Silvio    (by topy + klepas)   by ctkris          by Mike + Jeff  
-  12:00-13:00   SDR              GDB          + CTF                Red Star           Doorbells       
-                by pamela        by pauljt    (by muld0r)          by David           by Tres          
+  12:00-13:00   SDR              Browser      + CTF                Red Star           Doorbells       
+                by pamela        by Paul      (by muld0r)          by David           by Tres          
   13:00-14:00   Lunch                                                                                   
   14:00-15:30   Wireless         Pentesting   Lockpicking          Bounties           Drones          
                 by y011          by Lukasz    (by topy + klepas)   by Shubs           by Mike + Jeff  
@@ -105,6 +105,11 @@ Workshops
 	: Have your IDA Pro ready, but not sure where to stick it?
 	: Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
 	: Hosted by ctfkris
+: Managing to find browser bugs
+	: When faced with a challenge Paul Theriault, BSCE, PCI DSS(ex), doesn't back down, he does what all good Managers do: delegate.
+	: Today's problem: find faults in browser Web API code. Using a unique 'git clone'-based approach, we will learn how to leverage the hard work of the Firefox fuzzing team to identify software faults.
+	: We'll explore the basics of using a grammar-based fuzzing approach to find weaknesses in DOM APIs and compete for pride, fame and illustrious bounties
+	: Hosted by Paul Theriault (BSCE, PCI DSS(ex)) Esq.
 : Red Star OS - breaking out of the gulag (sandbox)
 	: Red Star OS is a home grown, closed-source Linux distribution produced by the DPRK (North Korea). This tutorial will demonstrate how to install it in a VM, configure English localiSation, and break out of the unprivileged sandbox to gain root access
 	: Attendees will be left with a few thoughts for future investigation of the system
@@ -114,11 +119,6 @@ Workshops
 	: This workshop will walk you through how to make a simple broadcast chat server using GNU Radio Companion. Don't worry if you don't have a transmitting SDR like a HackRF, we will also be showing you how to use your audio card so everyone can participate!
 	: Hosted by pamela
 	: Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
-: The Firefox Sandbox
-	: Hosted by pauljt (BSCE, PCI DSS(ex)) Esq.
-	: When faced with a challenge Paul Theriault, BSCE, PCI DSS(ex), doesn't back down, he does what all good Managers do: delegate.
-	: Today's problem: find faults in browser Web API code. Using a unique 'git clone'-based approach, we will learn how to leverage the hard work of the Firefox fuzzing team to identify software faults.
-	: We'll explore the basics of using a grammar-based fuzzing approach to find weaknesses in DOM APIs and compete for pride, fame and illustrious bounties
 : Wireless Enterprise Pentesting
 	: Hosted by y011
 
