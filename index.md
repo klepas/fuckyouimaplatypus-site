@@ -39,7 +39,7 @@ Instead of the usual conference fare of 2 tracks of talks over two days, we're g
 
 Schedule
 +=============+================+============+====================+==================+================+ 
-  Time         Stream A         Stream B     Stream C             Stream D           Stream E     
+  Time         Stream A         Stream B      ~funstuff~           Stream C           Stream D     
 +=============+================+============+====================+==================+================+ 
   09:00-09:45   Doors open / registration                                                                 
   09:45-10:30   Keynote by lin_s                                                                        
