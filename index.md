@@ -50,7 +50,7 @@ Schedule
   13:00-14:00   Lunch                                                                                   
   14:00-15:30   Wireless         Pentesting   Lockpicking          Bounties           Drones          
                 by y011          by Lukasz    (by topy + klepas)   by Shubs           by Mike + Jeff  
-  15:30-17:00   IOS              Fuzzing      + CTF                Firmware           Drones CTF      
+  15:30-17:00   IOS              Fuzzing      + CTF                Firmware           Drones       
                 by mg            by Hugh      (by muld0r)          by lin_s + gavia   by Mike + Jeff  
   17:00-18:00   Fireball talks                                                                          
   18:00-18:15   Closing ceremony                                                                        
