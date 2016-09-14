@@ -43,8 +43,8 @@ Schedule
 +=============+================+============+====================+==================+================+ 
   09:00-09:45   Doors open / registration                                                                 
   09:45-10:30   Keynote by lin_s                                                                        
-  10:30-12:00   Antennas         Hardware     Lockpicking          CTF 101            Drones          
-                by Chris + Ash   by Silvio    (by topy + klepas)   by ctkris          by Mike + Jeff  
+  10:30-12:00   Antennas         Hardware     Lockpicking          CTFs 102           Drones          
+                by Chris + Ash   by Silvio    (by topy + klepas)   by ctfkris+lin_s   by Mike + Jeff  
   12:00-13:00   SDR              Browser      + CTF                Red Star           Doorbells       
                 by pamela        by Paul      (by muld0r)          by David           by Tres          
   13:00-14:00   Lunch                                                                                   
@@ -100,11 +100,10 @@ Workshops
 	: Hosted by Silvio	
 : iOS Funstuff
 	: Hosted by mg
-: Lessons Learned from CTFs
-	: Want to get those sweet, sweet flags in CTFs?
-	: Have your IDA Pro ready, but not sure where to stick it?
-	: Can't be bothered trawling through tons of disassembly and just want to know where to put your breakpoint?
-	: Hosted by ctfkris
+: CTFs 102
+	: Want to get into CTFs, but don't know where to start? Have your IDA Pro ready, but not sure where to stick it?
+  : This workshop covers a few techniques to get cheap and easy points in CTFs, as well as touching on the practical use of angr
+	: Hosted by ctfkris + lin_s
 : Managing to find browser bugs
 	: When faced with a challenge Paul Theriault, BSCE, PCI DSS(ex), doesn't back down, he does what all good Managers do: delegate.
 	: Today's problem: find faults in browser Web API code. Using a unique 'git clone'-based approach, we will learn how to leverage the hard work of the Firefox fuzzing team to identify software faults.
