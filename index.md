@@ -69,6 +69,9 @@ Workshops
 	: No experience is required (we're both scrublords). Some general Linux knowledge is assumed
 	: Hosted by lin_s + gavia
 : Bug Bounties
+  : The bug bounty workshop is a fully-featured bug bounty simulation - participants of PlatypusCon can help find bugs for P-Corp, the leading alternative cryptocurrency ever since the E-Corp hack by Mr Robot.
+  : P-Corp is split up into multiple corporate domains and applications, typical to the structure of any normal bug bounty target
+  : Sign up to HackerOne, submit bugs to P-Corps private bounty, win epic swag (massive thanks to HackerOne)
 	: Hosted by shubs
 : Ding dong. Who's there? EVERYONE
 	: Reverse engineering an RF device and reproducing the signal using a Yard Stick One
