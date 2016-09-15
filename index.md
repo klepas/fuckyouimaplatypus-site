@@ -102,6 +102,10 @@ Workshops
 : Hardware Magic
 	: Hosted by Silvio	
 : iOS Funstuff
+  : This workshop will cover some of the in's and out's of attacking iOS apps and specifically reverse engineering and bypassing anti-tampering and other protection mechanisms commonly deployed by developers
+  : From there (if we have time) we will apply these techniques to common libraries/frameworks and various userland processes for some more fun and profit.
+  : NOTE: To get the most out of this workshop a jailbroken device running at least iOS 7 would be ideal. There will be a few spare ones around but will be handed out on a first come first serve basis. If you miss out or don't have one don't stress, all the binaries will be handed out and you can follow on with anything not on the device.
+  : Michael Gianarakis (mg) is APAC Director for SpiderLabs. As big an Apple fanboi as y011, mg only got into iOS security so he could convince his boss he needed a Mac for work.
 	: Hosted by mg
 : CTFs 102
 	: Want to get into CTFs, but don't know where to start? Have your IDA Pro ready, but not sure where to stick it?
