@@ -143,6 +143,7 @@ The Art of Breaking (into stuff. buildings, lockers, whatever)
 Fireball Talks
 : Open mic 5 min lightning rants
 : Shot required for every additional minute required
+: Want to come talk? Let us know beforehand, or just put your hand up :)
 
 Sunset Pre-Party
 : Some hipster bar
@@ -150,12 +151,9 @@ Sunset Pre-Party
 After-Party
 : Some dingy bar
 
-After-After-Party
-: Some shenanigans at a penthouse
-
 Morning-After-Brekky-BBQ
 : Decommissionary hipster brekky bar
-: Did someone say laser tag?
+: Laser Tag (and drinking) @ Darling Harbour
 
 This first year is by us, for us: if you're a platypus and there's no more tickets (or if you're broke as shit, spent your last $4.50 on ramen but want to come anyway), ping lin_s / snail and we'll sort you out :)
 
