@@ -125,8 +125,10 @@ Workshops
 	: This workshop will walk you through how to make a simple broadcast chat server using GNU Radio Companion. Don't worry if you don't have a transmitting SDR like a HackRF, we will also be showing you how to use your audio card so everyone can participate!
 	: Hosted by pamela
 	: Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
-: Wireless Enterprise Pentesting
-	: Hosted by y011
+: Totally Enterprise Ready "hands on" 802.11 wireless security assessment</dt>
+        : This workshop covers security assessment common deployments and security controls in Totally Enterprise Ready (i.e. usually a little bit shonky) 802.11 wireless solutions. Bring your wireless device and a recent Kali install or VM
+        : Neal Wise (aka y011 spelt why zero one one) is director of Melbourne-based consultancy Assurance which he co-founded in 2005
+        : Neal's >25 year career as a sysadmin and consultant has centred around distributed solutions and the network and security duct-tape that holds them together
 
 A Game of Flags
 : A twist on the traditional capture the flag wargames
