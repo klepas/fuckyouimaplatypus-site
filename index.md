@@ -41,19 +41,19 @@ Schedule
 +=============+================+============+====================+==================+================+ 
   Time         Stream A         Stream B      ~funstuff~           Stream C           Stream D     
 +=============+================+============+====================+==================+================+ 
-  09:00-09:45   Doors open / registration                                                                 
-  09:45-10:30   Keynote by lin_s                                                                        
+  09:00-09:45     Doors open / registration                                                                 
+  09:45-10:30     Keynote by lin_s                                                                        
   10:30-12:00   Antennas         Hardware     Lockpicking          CTFs 102           Drones          
                 by Chris + Ash   by Silvio    (by topy + klepas)   by ctfkris+lin_s   by Mike + Jeff  
-  12:00-13:00   SDR              Browser      + CTF                Red Star           Doorbells       
+  12:00-13:00   SDR Texting      Browser      + CTF                Red Star           Doorbells       
                 by pamela        by Paul      (by muld0r)          by David           by Tres          
   13:00-14:00   Lunch                                                                                   
   14:00-15:30   Wireless         Pentesting   Lockpicking          Bounties           Drones          
                 by y011          by Lukasz    (by topy + klepas)   by Shubs           by Mike + Jeff  
   15:30-17:00   IOS              Fuzzing      + CTF                Firmware           Drones       
                 by mg            by Hugh      (by muld0r)          by lin_s + gavia   by Mike + Jeff  
-  17:00-18:00   Fireball talks                                                                          
-  18:00-18:15   Closing ceremony                                                                        
+  17:00-18:00     Fireball talks                                                                          
+  18:00-18:15     Closing ceremony                                                                        
 +=============+================+============+====================+==================+================+
 
 Workshops
@@ -124,7 +124,7 @@ Workshops
 : Talking ASCII over the Airwaves
 	: This workshop will walk you through how to make a simple broadcast chat server using GNU Radio Companion. Don't worry if you don't have a transmitting SDR like a HackRF, we will also be showing you how to use your audio card so everyone can participate!
 	: Hosted by pamela
-	: Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @pamoshea)
+	: Pamela is a pentester in Melbourne and runs the Melbourne Software Defined Radio group (@sdr_melbourne, @0xsh_)
 : Totally Enterprise Ready "hands on" 802.11 wireless security assessment</dt>
         : This workshop covers security assessment common deployments and security controls in Totally Enterprise Ready (i.e. usually a little bit shonky) 802.11 wireless solutions. Bring your wireless device and a recent Kali install or VM
         : Neal Wise (aka y011 spelt why zero one one) is director of Melbourne-based consultancy Assurance which he co-founded in 2005
