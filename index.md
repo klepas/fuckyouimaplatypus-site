@@ -45,9 +45,9 @@ Schedule
   09:45-10:30     Keynote by lin_s                                                                        
   10:30-12:00   Antennas         Hardware     Lockpicking          CTFs 102           Drones          
                 by Chris + Ash   by Silvio    (by topy + klepas)   by ctfkris+lin_s   by Mike + Jeff  
-  12:00-13:00   SDR Texting      Browser      + CTF                Red Star           Doorbells       
+  12:00-13:00   SDR Texting      Browser      + CTF                Red Star OS        Doorbells       
                 by pamela        by Paul      (by muld0r)          by David           by Tres          
-  13:00-14:00   Lunch                                                                                   
+  13:00-14:00     Lunch                                                                                 
   14:00-15:30   Wireless         Pentesting   Lockpicking          Bounties           Drones          
                 by y011          by Lukasz    (by topy + klepas)   by Shubs           by Mike + Jeff  
   15:30-17:00   IOS              Fuzzing      + CTF                Firmware           Drones       
@@ -68,6 +68,10 @@ Workshops
 	: Participants should bring a Linux system / VM, with binwalk and firmware-mod-kit installed (from github). This workshop will reference content in IDA Pro, but IDA is not required
 	: No experience is required (we're both scrublords). Some general Linux knowledge is assumed
 	: Hosted by lin_s + gavia
+: Badge Soldering Workshop
+	: The badge soldering workshop will provide all the equipment to solder electronic badges that you acquire at the conference. If you're experienced or a novice, there is space for you
+	: Hosted by  Dr Silvio Cesare
+	: Silvio is an organiser of BSidesCbr. He's worked in Australia, France, and the United States within both industry and academia. At his core though, he's still a hacker
 : Bug Bounties
   : The bug bounty workshop is a fully-featured bug bounty simulation - participants of PlatypusCon can help find bugs for P-Corp, the leading alternative cryptocurrency ever since the E-Corp hack by Mr Robot.
   : P-Corp is split up into multiple corporate domains and applications, typical to the structure of any normal bug bounty target
@@ -99,8 +103,6 @@ Workshops
 	: Highlights from the workshop include: Active and Passive Reconnaissance; Vulnerability Discovery; Vulnerability Confirmation; Vulnerability Analysis; Establishing a foothold; Privilege Escalation; Lateral Movement; and Domain Compromise
 	: Hosted by Lukasz (SyNick)
 	: Lukasz is a managing consultant with Alcorn Group, a Brisbane based security consultancy firm
-: Hardware Magic
-	: Hosted by Silvio	
 : iOS Funstuff
   : This workshop will cover some of the in's and out's of attacking iOS apps and specifically reverse engineering and bypassing anti-tampering and other protection mechanisms commonly deployed by developers
   : From there (if we have time) we will apply these techniques to common libraries/frameworks and various userland processes for some more fun and profit.
@@ -148,7 +150,7 @@ Fireball Talks
 : Want to come talk? Let us know beforehand, or just put your hand up :)
 
 Sunset Pre-Party
-: Some hipster bar
+: The Wild Rover: 75 Campbell St, Surry Hills NSW 2010
 
 After-Party
 : Some dingy bar
