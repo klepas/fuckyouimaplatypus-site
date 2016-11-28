@@ -10,7 +10,7 @@ title: letsjusthackshit
 version: "0.1"
 description: >
   $ cat index.md
-email: info@platypusinitiative.org
+email: leadership@platypusinitiative.org
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://letsjusthackshit.org" # the base hostname & protocol for your site
