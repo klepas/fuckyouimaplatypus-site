@@ -7,8 +7,10 @@ abstract: "We are a Sydney-based, community-driven initiative that takes a hands
 If you're interested in information security, and willing to spend time and effort actually contributing to cool security projects, whether it be through helping organise venues and content for events, by participating in community events like CTFs or even via code commits (especially via code commits!): let's talk =]
 
 ***
+## PlatypusCamp 2017
+Camp camp camp! Stay tuned for **~platypuscamp 2017~** in late September
 
-## PlatypusCon Conference
+## PlatypusCon Conference 2016
 
 **PLATYPUSCON 2016 IS OVER, GREAT SUCCESS**. Thankyou to everyone who came; special thanks to our workshop hosts and volunteers. <3<3<3
 
