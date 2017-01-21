@@ -26,13 +26,13 @@ Our semi-regular [Platypus events](http://www.meetup.com/en-AU/OWASP-Sydney-Web-
 Workshops
 : We get together to talk about new technology ideas, similar to a university-style "lab" session.
 
-Radio on the Rooftop
+'Radio on the Rooftop'
 : We get together and explore the wonderful world of software defined radio from the comfort of a rooftop bar.
 
-Software Analysis and Vulnerability Discovery
+Software analysis and vulnerability discovery
 : We share the joy of controlling $PC together.
 
-Pick & Hack Locks
+Pick & hack locks
 : We pick, dismantle, modify and perform forensics on locks both mechanical & digital.
 
 CTF
