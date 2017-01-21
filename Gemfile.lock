@@ -59,7 +59,7 @@ DEPENDENCIES
   titleize
 
 RUBY VERSION
-   ruby 2.3.0p0
+   ruby 2.3.1p112
 
 BUNDLED WITH
-   1.12.1
+   1.13.6
