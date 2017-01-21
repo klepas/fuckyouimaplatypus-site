@@ -8,6 +8,7 @@
 
 //  # Custom monospace fonts.
 //
+//    Refactor me into a separate partial.
 @font-face {
   font-family: 'FixedsysExcelsior301Regular';
   src:  url('../fonts/fsex300/fsex300-webfont.eot');
@@ -24,8 +25,8 @@
   font-weight: normal;
   font-style: normal;
 
-  -webkit-font-smoothing: none;
-  -moz-osx-font-smoothing: none;
+  -webkit-font-smoothing: none; // not handled by autoprefixer?
+  -moz-osx-font-smoothing: none; // not handled by autoprefixer?
   font-smooth:never;
   //  These aren't standardised, but prevents fixedsys from being mangled.
 }
@@ -33,6 +34,7 @@
 
 //  # Custom variables.
 //
+//    Refactor me into a separate partial.
 $fontface-mono: 'FixedsysExcelsior301Regular', monospace;
 
 $base-font-family: $fontface-mono;
@@ -132,7 +134,7 @@ body {
   border: 0;
 }
 
-//  # Basic in-line level elements in the DOM.
+//  # Basic copy elements in the DOM.
 //
 h1,
 h2,
@@ -188,13 +190,6 @@ hr {
 //  # Specific inline-styling within specific blocks.
 //
 
-footer#site-footer {
-  a {
-    border-bottom: none;
-    opacity: 0.7;
-  }
-}
-
 //    Header styling.
 header#site-banner {
   // height: 100vh;
@@ -228,7 +223,6 @@ header#site-banner {
     margin: 0;
     opacity: 0.3;
     text-shadow: 1px 1px 3px #000;
-    // border-radius: 1px;
     border-right: 4px solid transparent;
     border-bottom: 4px solid transparent;
 
@@ -291,6 +285,13 @@ header#site-banner {
         }
       }
     }
+  }
+}
+
+footer#site-footer {
+  a {
+    border-bottom: none;
+    opacity: 0.7;
   }
 }
 
