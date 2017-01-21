@@ -8,8 +8,7 @@
 # Site settings
 title: letsjusthackshit
 version: "0.1"
-description: >
-  $ cat index.md
+description: "$ cat index.md"
 email: leadership@platypusinitiative.org
 
 baseurl: "" # the subpath of your site, e.g. /blog
