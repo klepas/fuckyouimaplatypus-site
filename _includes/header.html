@@ -1,9 +1,8 @@
 <header id="site-banner">
 
-    <!--<h1><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>-->
+    <h1 class="sr-only"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
 
-    <h1>
-      <a href="{{ site.baseurl }}/">
+    <a class="ascii" href="{{ site.baseurl }}/">
       <pre>
 _|              _|      _|                 _|                        _|
 _|    _|_|    _|_|_|_|       _|_|_|            _|    _|    _|_|_|  _|_|_|_|
@@ -16,28 +15,36 @@ _|                            _|                     _|        _|    _|
 _|_|_|      _|_|_|    _|_|_|  _|  _|         _|_|_|  _|_|_|        _|_|_|_|
 _|    _|  _|    _|  _|        _|_|         _|_|      _|    _|  _|    _|
 _|    _|  _|    _|  _|        _|  _|           _|_|  _|    _|  _|    _|
-_|    _|    _|_|_|    _|_|_|  _|    _|     _|_|_|    _|    _|  _|      _|_|
-        </pre>
-      </a>
-    </h1>
+_|    _|    _|_|_|    _|_|_|  _|    _|     _|_|_|    _|    _|  _|      _|_|</pre>
+    </a>
+
+    <nav>
+      <ul>
+        <li>
+          <a href="/"{% if page.url == '/' %} class="is_current"{% endif %}>
+            Home
+          </a>
+        </li>
+        <li>
+          <a href="/conduct"{% if page.url == '/conduct' %} class="is_current"{% endif %}>
+            Code of Conduct
+          </a>
+        </li>
+        <li>
+          <a href="/platypuscon2016"{% if page.url == '/platypuscon2016' %} class="is_current"{% endif %}>
+            PlatypusCon 2016
+          </a>
+        </li>
+        <li><a href="mailto:{{ site.email }}">mailto: leadership</a></li>
+      </ul>
+    </nav>
 
     <p class="site-description">{{ site.description }}</p>
 
-    <p>
-    <table>
-       <tr>
-        {% for node in site.pages %}
-          {% if page.url == node.url %}
-          {% else %}
-            <td><a href="{{node.url}}">{{node.title}}</a></td>
-          {% endif %}
-            <td><a href="{{node.url}}">{{node.title}}</a></td>
-        {% endfor %} 
-       </tr>
-    </table>
-    </p>
-
     {% include fu-platy.html %}
-    {{ page.abstract | markdownify }}
+
+    {% if page.abstract %}
+      {{ page.abstract | markdownify }}
+    {% endif %}
 
 </header>
