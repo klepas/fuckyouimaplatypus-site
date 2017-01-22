@@ -5,8 +5,6 @@ permalink: /platypuscon2016
 abstract: "PLATYPUSCON 2016 IS OVER, GREAT SUCCESS. Thank you to everyone who came; special thanks to our workshop hosts and volunteers. <3<3<3"
 ---
 
-***
-
 At long last, platypuscon is here... Ever since Ruxcon departed for Melbourne, the Sydney infosec community has been sorely missing a conference-style event to bring the community together for a few days of sharing ideas, showcasing our projects and horrendous alcoholism.
 
 In the spirit of what brought this community together, we're aiming to build a super hands-on event: that is, instead of a series of talks while you plan on missing to catch up with your friends at the cafe down the road, we're putting together a full day of hands-on workshops where you can get your hands dirty and we can all help each other learn something new.
