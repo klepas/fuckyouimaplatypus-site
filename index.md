@@ -6,11 +6,13 @@ abstract: "We are a Sydney-based, community-driven initiative that takes a hands
 
 If you're interested in information security, and willing to spend time and effort actually contributing to cool security projects, whether it be through helping organise venues and content for events, by participating in community events like CTFs or even via code commits (especially via code commits!): let's talk =]
 
-***
+**
 
 ## PlatypusCamp 2017
 
-Camp camp camp! Stay tuned for **~platypuscamp 2017~** in late September
+The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September. We're working on lining up another two epic days of content and an epic night of festivities.
+
+~watch this space~: more info as it comes.
 
 ## Community Events
 
@@ -25,9 +27,6 @@ Our semi-regular [Platypus events](http://www.meetup.com/en-AU/OWASP-Sydney-Web-
 
 Workshops
 : We get together to talk about new technology ideas, similar to a university-style "lab" session.
-
-'Radio on the Rooftop'
-: We get together and explore the wonderful world of software defined radio from the comfort of a rooftop bar.
 
 Software analysis and vulnerability discovery
 : We share the joy of controlling $PC together.
