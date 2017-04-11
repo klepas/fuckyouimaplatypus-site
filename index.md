@@ -13,10 +13,16 @@ If you're interested in information security, and willing to spend time and effo
 The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September. We're working on lining up another epic day of hands-on workshops-only content and an epic night of festivities.
 
 Date
-: Friday evening 22nd of September - Sunday midday 24th September 2017
+: 6pm Friday 22nd of September - 1pm Sunday 24th September 2017
 : Campfire opening at 9:00pm Friday 22nd September
 : Official welcome at 10:00am Saturday 23rd September
 : Effigy end of the world at 9:00pm Saturday 24th September
+
+Cost
+: $100 (whether you're camping or not)
+: Merchandise available for pre-order only on EventBrite: $30 shirt, $60 hoodie
+: If you require complimentary platypus party bus shuttle services, book your seat on EventBrite with your ticket
+: Ticket does not include $8 fee per day for vehicles (Pay via the campground's parking machines on the day)
 
 Location
 : Bents Basin Campground (1 hour west of Sydney CBD)
@@ -25,13 +31,17 @@ Location
 ### FAQ
 How do I get there?
 : By car: enter the Bents Basin campground entrance from Wolstenholme Ave and follow the signs to the campground
-: By the platypus party bus: (a) picking up at Sydney Domestic Airport at 6:00pm 22/09/2017, (b) followed by Central station at 6:30pm 22/09/2017
-: The party bus will return: 2:00pm 24/09/2017 for both Central station and Sydney Domestic Airport
-: Book your party bus seat on Eventbrite with your ticket
+: By the platypus party bus: 
+- Picking up from Central station: 8:30am Saturday 23/09/2017
+- Returning from campgrounds: 11:00pm Saturday 23/09/2017 back to Central station
+- Book your party bus seat on Eventbrite with your ticket
+- Don't be late! If you miss the party bus, you'll need to sort your own transportation
+
+Do I have to camp?
+: No, you can be lame and just come Saturday (while we party all night long)
 
 What are the accommodation options?
 : In your own provided tent (Yes, Kmart tents are fine)
-: In rented tents provided by us (you will have to set up the tents yourself) - book on Eventbrite with your tickets
 : Feel free to hire a glamping company to setup up your tent
 : In your car or whatever vehicle you came in
 : In the next town 15 mins away (Wallacia NSW)
@@ -89,11 +99,11 @@ Where can I store my valuables?
 : Ask a staff to store your valuables in their cars
 
 Can I leave the camp and come back (i.e. to get supplies)?
-: Yes, keep your lanyards with you at all times as proof of entry
+: Yes, just keep your lanyards with you at all times as proof of entry
 
 What's the wet weather plan?
 : We'll still go ahead
-: Unless it's some torrential weather, follow @platypuspartay for wet weather plans
+: Unless it's some torrential weather, follow @platypuspartay for alternative wet weather plans
 
 ## Community Events
 
