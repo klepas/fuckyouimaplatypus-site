@@ -10,9 +10,90 @@ If you're interested in information security, and willing to spend time and effo
 
 ## PlatypusCamp 2017
 
-The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September. We're working on lining up another two epic days of content and an epic night of festivities.
+The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September. We're working on lining up another epic day of hands-on workshops-only content and an epic night of festivities.
 
-~watch this space~: more info as it comes.
+Date
+: Friday evening 22nd of September - Sunday midday 24th September 2017
+: Campfire opening at 9:00pm Friday 22nd September
+: Official welcome at 10:00am Saturday 23rd September
+: Effigy end of the world at 9:00pm Saturday 24th September
+
+Location
+: Bents Basin Campground (1 hour west of Sydney CBD)
+: 525 Wolstenholme Ave, Greendale NSW 2745
+
+### FAQ
+How do I get there?
+: By car: enter the Bents Basin campground entrance from Wolstenholme Ave and follow the signs to the campground
+: By the platypus party bus: (a) picking up at Sydney Domestic Airport at 6:00pm 22/09/2017, (b) followed by Central station at 6:30pm 22/09/2017
+: The party bus will return: 2:00pm 24/09/2017 for both Central station and Sydney Domestic Airport
+: Book your party bus seat on Eventbrite with your ticket
+
+What are the accommodation options?
+: In your own provided tent (Yes, Kmart tents are fine)
+: In rented tents provided by us (you will have to set up the tents yourself) - book on Eventbrite with your tickets
+: Feel free to hire a glamping company to setup up your tent
+: In your car or whatever vehicle you came in
+: In the next town 15 mins away (Wallacia NSW)
+
+Where can I put up my tent?
+: On any patch of grass
+: Exluding areas next to the marquees / workshop area
+: Refer to the sitemap on Eventbrite
+
+What facilities does the campground provide?
+: Hot showers with power points
+: Flushing toilets
+: Drinking water
+: Kitchen with power points
+: BBQ facilities: both wood and electric BBQ (you can purchase firewood from the campground office)
+: Pre-built fire pits
+
+What infrastructure will platypus provide?
+: Power at the workshop / marquee areas (there will be no power near your tent)
+: Internet
+: Limited mobile network
+: Basic bar for purchase
+: Basic food for purchase
+: Food trucks
+
+What do I need to bring?
+: Laptop
+: Camping equipment (tent, sleeping bag, sleeping matt, pillow) or sleep in your car
+: Food, water, cooking equipment and utensils to survive 2 nights camping
+
+Other things that may be useful to bring:
+: Usual toiletaries
+: Torches, preferably head torches
+: Sunscreen
+: Insect repellant
+: Rubbish bags
+: Esky + ice
+: Generator
+: Swimmers (there's a lagoon!)
+: Paddling or fishing equipment
+
+What vehicle can you bring?
+: Cars, motorhomes, caravan, camper trailers, campervans
+
+Where can I park?
+: Immediately next to your tent, trailer or caravan
+: Marked parking spaces 
+: Cost: $8 per day to be be paid separately via the campground's parking machines
+
+What's the closest nearby town?
+: Wallacia NSW, 15mins away: provides infrastructure such as ATMs, petrol stations, supermarkets
+
+Where can I store my valuables?
+: Lock it in your car or carry it with you
+: Ask a staff to store your valuables in their cars
+
+Can I leave the camp and come back (i.e. to get supplies)?
+: Yes, keep your lanyards with you at all times as proof of entry
+
+What's the wet weather plan?
+: We'll still go ahead
+: Unless it's some torrential weather, follow @platypuspartay for wet weather plans
 
 ## Community Events
 
@@ -21,7 +102,6 @@ As a group, we frequent many of the community events around Sydney. You'll gener
 - Sectalks Sydney: every 3rd Tuesday of the month
 - Ruxmon Sydney: every 3rd Friday of the month
 - CryptoParty Sydney
-- 2600 Sydney: every 1st Friday of the month
 
 Our semi-regular [Platypus events](http://www.meetup.com/en-AU/OWASP-Sydney-Web-Application-Security-Group/) gives us the opportunity to do tons of cool security shit like:
 
