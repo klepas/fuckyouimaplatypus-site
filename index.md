@@ -13,8 +13,8 @@ If you're interested in information security, and willing to spend time and effo
 The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September. We're working on lining up another epic day of hands-on workshops-only content and an epic night of festivities.
 
 Date
-: 6pm Friday 22nd of September - 1pm Sunday 24th September 2017
-: Nerding out besides campfire from 6:30pm Friday 22nd September
+: 6.30pm Friday 22nd of September - 1pm Sunday 24th September 2017
+: Nerding out besides a campfire from 6:30pm Friday 22nd September
 : Official welcome at 10:00am Saturday 23rd September
 : Effigy end of the world at 9:00pm Saturday 24th September
 
