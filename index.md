@@ -14,7 +14,7 @@ The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on on
 
 Date
 : 6pm Friday 22nd of September - 1pm Sunday 24th September 2017
-: Campfire opening at 9:00pm Friday 22nd September
+: Nerding out besides campfire from 6:30pm Friday 22nd September
 : Official welcome at 10:00am Saturday 23rd September
 : Effigy end of the world at 9:00pm Saturday 24th September
 
@@ -32,8 +32,9 @@ Location
 How do I get there?
 : By car: enter the Bents Basin campground entrance from Wolstenholme Ave and follow the signs to the campground
 : By the platypus party bus: 
+
 - Picking up from Central station: 8:30am Saturday 23/09/2017
-- Returning from campgrounds: 11:00pm Saturday 23/09/2017 back to Central station
+- Returning from campgrounds: 10:00pm Saturday 23/09/2017 back to Central station
 - Book your party bus seat on Eventbrite with your ticket
 - Don't be late! If you miss the party bus, you'll need to sort your own transportation
 
