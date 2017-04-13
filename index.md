@@ -22,7 +22,7 @@ Cost
 : $100 (whether you're camping or not)
 : Merchandise available for pre-order only on EventBrite: $30 shirt, $60 hoodie
 : If you require complimentary platypus party bus shuttle services, book your seat on EventBrite with your ticket
-: Ticket does not include $8 fee per day for vehicles (Pay via the campground's parking machines on the day)
+: Ticket does not include $8 fee per day for vehicles (pay via the campground's parking machines on the day)
 
 Location
 : Bents Basin Campground (1 hour west of Sydney CBD)
@@ -49,7 +49,7 @@ What are the accommodation options?
 
 Where can I put up my tent?
 : On any patch of grass
-: Exluding areas next to the marquees / workshop area
+: Excluding areas next to the marquees / workshop area
 : Refer to the sitemap on Eventbrite
 
 What facilities does the campground provide?
@@ -74,7 +74,7 @@ What do I need to bring?
 : Food, water, cooking equipment and utensils to survive 2 nights camping
 
 Other things that may be useful to bring:
-: Usual toiletaries
+: Usual toiletries
 : Torches, preferably head torches
 : Sunscreen
 : Insect repellant
