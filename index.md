@@ -33,7 +33,7 @@ How do I get there?
 : By car: enter the Bents Basin campground entrance from Wolstenholme Ave and follow the signs to the campground
 : By the platypus party bus: 
 
-- Picking up from Central station: 8:30am Saturday 23/09/2017
+- Picking up from Central station, Bay 14 @ Eddy Avenue: 8:30am Saturday 23/09/2017
 - Returning from campgrounds: 10:00pm Saturday 23/09/2017 back to Central station
 - Book your party bus seat on Eventbrite with your ticket
 - Don't be late! If you miss the party bus, you'll need to sort your own transportation
