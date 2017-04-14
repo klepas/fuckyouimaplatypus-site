@@ -38,6 +38,8 @@ How do I get there?
 - Book your party bus seat on Eventbrite with your ticket
 - Don't be late! If you miss the party bus, you'll need to sort your own transportation
 
+: If you're super keen on camping and have trouble getting out to to campsite on Friday, email us and we'll see if we can sort out a carpool for you
+
 Do I have to camp?
 : No, you can be lame and just come Saturday (while we party all night long)
 
