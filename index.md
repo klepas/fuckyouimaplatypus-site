@@ -78,6 +78,7 @@ What do I need to bring?
 Other things that may be useful to bring:
 : Usual toiletries
 : Torches, preferably head torches
+: Picnic chairs
 : Sunscreen
 : Insect repellant
 : Rubbish bags
