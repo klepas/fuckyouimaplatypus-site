@@ -83,6 +83,7 @@ Other things that may be useful to bring:
 : Rubbish bags
 : Esky + ice
 : Generator
+: Nerf guns
 : Swimmers (there's a lagoon!)
 : Paddling or fishing equipment
 
