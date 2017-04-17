@@ -27,6 +27,7 @@ Cost
 Location
 : Bents Basin Campground (1 hour west of Sydney CBD)
 : 525 Wolstenholme Ave, Greendale NSW 2745
+: Party bus services will be available to and from the venue on Saturday.
 
 ### FAQ
 How do I get there?
