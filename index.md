@@ -65,7 +65,6 @@ What facilities does the campground provide?
 What infrastructure will platypus provide?
 : Power at the workshop / marquee areas (there will be no power near your tent)
 : Internet
-: Limited mobile network
 : Basic bar for purchase
 : Basic food for purchase
 : Food trucks
