@@ -10,7 +10,7 @@ If you're interested in information security, and willing to spend time and effo
 
 ## PlatypusCamp 2017
 
-The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September. We're working on lining up another epic day of hands-on workshops-only content and an epic night of festivities.
+The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September (no, you don't have to camp). We're working on lining up another epic day of hands-on workshops-only content and an epic night of festivities.
 
 Date
 : 6.30pm Friday 22nd of September - 1pm Sunday 24th September 2017
@@ -19,7 +19,7 @@ Date
 : Effigy end of the world at 9:00pm Saturday 24th September
 
 Cost
-: $100 (whether you're camping or not)
+: $99.99 (whether you're camping or not)
 : Merchandise available for pre-order only on EventBrite: $30 shirt, $60 hoodie
 : If you require complimentary platypus party bus shuttle services, book your seat on EventBrite with your ticket
 : Ticket does not include $8 fee per day for vehicles (pay via the campground's parking machines on the day)
