@@ -77,6 +77,7 @@ What do I need to bring?
 
 Other things that may be useful to bring:
 : Usual toiletries
+: Usual toys e.g. SDR equipment, drones
 : Torches, preferably head torches
 : Picnic chairs
 : Sunscreen
