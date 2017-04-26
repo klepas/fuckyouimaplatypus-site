@@ -104,6 +104,12 @@ Where can I store my valuables?
 : Lock it in your car or carry it with you
 : Ask a staff to store your valuables in their cars
 
+Are there student discounts?
+: Broadly speaking, no. The Platypus Initiative is paying for this out of pocket, and we cannot afford to extend a blanket student discount. That said, we understand that $100 means different things to different people - if you really really want to come but can't make it, please reach out to us and we'll try to help where we can on a case-by-case basis.
+
+Can my kids come?
+: Yes, all your kids (under 16) can come free =] but if they want to receive badges and other swag, a $50 kid ticket should be purchased. Enquire within for the EventBrite code to purchase a kid ticket
+
 Can I leave the camp and come back (i.e. to get supplies)?
 : Yes, just keep your lanyards with you at all times as proof of entry
 
