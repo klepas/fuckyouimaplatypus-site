@@ -8,7 +8,7 @@ If you're interested in information security, and willing to spend time and effo
 
 **
 
-## PlatypusCamp 2017
+## PlatypusCon^H^H^HCamp 2017
 
 The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September (no, you don't have to camp). We're working on lining up another epic day of hands-on workshops-only content and an epic night of festivities.
 
