@@ -12,6 +12,8 @@ If you're interested in information security, and willing to spend time and effo
 
 The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September (no, you don't have to camp). We're working on lining up another epic day of hands-on conference-style events and an epic night of festivities.
 
+Grab your tickets [>>HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
+
 Some of our content includes:
 : Capture the Flags
 : Drone hacking and racing
@@ -31,14 +33,15 @@ Date
 
 Cost
 : $99.99 (whether you're camping or not)
+: Tickets can be purchased [>>HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313)
 : Merchandise available for pre-order only on EventBrite: $30 shirt, $60 hoodie
-: If you require complimentary platypus party bus shuttle services, book your seat on EventBrite with your ticket
+: If you require complimentary platypus party bus shuttle services (for non-campers), book your seat on EventBrite with your ticket
 : Ticket does not include $8 fee per day for vehicles (pay via the campground's parking machines on the day)
 
 Location
 : Bents Basin Campground (1 hour west of Sydney CBD)
 : 525 Wolstenholme Ave, Greendale NSW 2745
-: Party bus services will be available to and from the venue on Saturday.
+: Party bus services will be available to and from the venue on Saturday for non-campers
 
 ### FAQ
 How do I get there?
