@@ -15,15 +15,19 @@ The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on on
 Grab your tickets [>>HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
 
 Some of our content includes:
+: Backdooring monitors
+: Blue team jamming
 : Capture the Flags
 : Drone hacking and racing
 : Hardware hacking
 : Internet of Things exploitation
-: Physical security exploitation including lockpicking
+: Multi-OS privilege escalation
+: Physical security exploitation including lockpicking, bypass techniqes, NFC hacking and hostage escape
 : Software Defined Radio (SDR) building and hunting
 : Wireless hacking
 
 A more detailed schedule of talks will be released closer to the event.
+Refer to the campground sitemap [>>here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png) for details about the workshop areas
 
 Date
 : 6.30pm Friday 22nd of September - 12:00am Sunday 24th September 2017
@@ -83,7 +87,6 @@ What infrastructure will platypus provide?
 : Internet (Telstra mainly)
 : Basic bar for purchase
 : Basic food for purchase
-: Food trucks
 
 What do I need to bring?
 : Laptop
