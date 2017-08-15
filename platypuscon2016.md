@@ -1,6 +1,6 @@
 ---
 layout: fuckyouimaplatypus
-title: PlatypusCon 2016
+title: Platypus Initiative | PlatypusCon 2016
 permalink: /platypuscon2016
 abstract: "PLATYPUSCON 2016 IS OVER, GREAT SUCCESS. Thank you to everyone who came; special thanks to our workshop hosts and volunteers. <3<3<3"
 ---
