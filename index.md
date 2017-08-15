@@ -12,7 +12,7 @@ If you're interested in information security, and willing to spend time and effo
 
 The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September (no, you don't have to camp). We're working on lining up another epic day of hands-on conference-style events and an epic night of festivities.
 
-Grab your tickets [>>HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
+Grab your [>>tickets HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
 
 Some of our content includes:
 : Backdooring monitors
@@ -27,7 +27,7 @@ Some of our content includes:
 : Wireless hacking
 
 A more detailed schedule of talks will be released closer to the event.
-Refer to the campground sitemap [>>here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png) for details about the workshop areas
+Refer to the [>>campground sitemap here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png) for details about the workshop areas
 
 Date
 : 6.30pm Friday 22nd of September - 12:00am Sunday 24th September 2017
@@ -57,7 +57,7 @@ How do I get there?
 - Book your party bus seat on Eventbrite with your ticket
 - Don't be late! If you miss the party bus, you'll need to sort your own transportation
 
-: If you're keen on camping and have trouble getting out to to campsite on Friday, email us and we'll see if we can sort out a carpool for you
+: For Friday campers, a staff can pick you up at Leppington train station. Just let us know when you'll be there and we'll come get you =]
 
 Do I have to camp?
 : No, you can be lame and just come Saturday
@@ -78,7 +78,7 @@ What facilities does the campground provide?
 : Hot showers with power points
 : Flushing toilets
 : Drinking water
-: Kitchen with power points
+: Kitchen with fridge, stove, sink, power points
 : BBQ facilities: both wood and electric BBQ (you can purchase firewood from the campground office)
 : Pre-built fire pits
 
@@ -118,6 +118,10 @@ Where can I park?
 What's the closest nearby town?
 : Wallacia NSW, 15mins away: provides infrastructure such as ATMs, petrol stations, supermarkets
 
+What's the closest train station?
+: Leppington NSW, 20mins away
+: For campers coming in Friday, we are able to pickup you up from Leppington station if you give us a buzz
+
 Where can I store my valuables?
 : Lock it in your car or carry it with you
 : Ask a staff to store your valuables in their cars
@@ -136,7 +140,7 @@ What's the wet weather plan?
 
 As a group, we frequent many of the community events around Sydney. You'll generally find us at events like:
 
-- Sectalks Sydney: every 3rd Tuesday of the month
+- Sectalks Sydney: every 2nd Tuesday of the month
 - Ruxmon Sydney: every 3rd Friday of the month
 - CryptoParty Sydney
 
