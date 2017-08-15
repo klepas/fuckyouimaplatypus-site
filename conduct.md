@@ -1,6 +1,6 @@
 ---
 layout: fuckyouimaplatypus
-title: Code of Conduct
+title: Platypus Initiative | Code of Conduct
 permalink: /conduct
 ---
 
