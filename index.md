@@ -25,43 +25,132 @@ Some of our content includes:
 : Windows privilege escalation by sagi
 : Wireless hacking by seb kinne
 
-A more detailed schedule of talks will be released closer to the event.
-Refer to the [>>campground sitemap here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png) for details about the workshop areas
-
 Schedule
 
 FRIDAY
-+----------------+------------------------------+
-|      Time      |        Chillout Area         |
-+----------------+------------------------------+
-| 6.30pm onwards | - Cantenna building by faz   |
-|                | - LED soldering by andrew    |
-|                | - Communal EL wire wearables |
-+----------------+------------------------------+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Time</th>
+    <th class="tg-yw4l">~campfire~</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">18:30 onwards</td>
+    <td class="tg-yw4l" rowspan="3">- Cantenna fun by faz<br>- LED soldering by andrew bolin<br>- Campfire EL wire wearables</td>
+  </tr>
+</table>
 
 SATURDAY
-+-------------------+---------------------+
-|       Time        |        Event        |
-+-------------------+---------------------+
-| 09.00am - 10.00am | Breakfast           |
-| 10.00am - 10.20am | Welcome             |
-| 10.30am - 11.40am | Workshop 1          |
-| 11.50am - 13.00pm | Workshop 2          |
-| 13.00pm - 14.20pm | LAGOON SIZZLE       |
-| 14.20pm - 15.30pm | Workshop 3          |
-| 15.40pm - 16.50pm | Workshop 4          |
-| 17.00pm - 17.45pm | Fireball talks      |
-| 17.45pm - 18.00pm | Closing             |
-| 18:30pm - 20:00pm | Dinner              |
-| 20.30pm           | Effigy end of world |
-+-------------------+---------------------+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Time</th>
+    <th class="tg-yw4l">Workshops</th>
+    <th class="tg-yw4l">PhysSec</th>
+    <th class="tg-yw4l">Drone</th>
+    <th class="tg-yw4l">SDR</th>
+    <th class="tg-yw4l">~chillout~</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">09:00-10:00</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Breakfast</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">10:00-10:20</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Welcome</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">10:30-11:40</td>
+    <td class="tg-yw4l">Workshop 1</td>
+    <td class="tg-yw4l">PhysSec 1</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf and faz</td>
+    <td class="tg-yw4l" rowspan="2">Badge soldering, CTF</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">11:50-13:00</td>
+    <td class="tg-yw4l">Workshop 2</td>
+    <td class="tg-yw4l">PhysSec 2</td>
+    <td class="tg-yw4l">Drone 1</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">LAGOON SIZZLE</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">14:20-15:30</td>
+    <td class="tg-yw4l">Workshop 3</td>
+    <td class="tg-yw4l">PhysSec 3</td>
+    <td class="tg-yw4l">Drone racing</td>
+    <td class="tg-yw4l" rowspan="2">(cont) Foxhunt by pamoshea, nullwolf and faz</td>
+    <td class="tg-yw4l" rowspan="2">(cont) Badge soldering, CTF</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">15:40-16:50</td>
+    <td class="tg-yw4l">Workshop 4</td>
+    <td class="tg-yw4l">PhysSec 4</td>
+    <td class="tg-yw4l">Drone racing</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">17:00-17:45</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Fireball talks</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">17.45-18.00</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Closing</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">18.30-20.00</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Dinner</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">20.30</td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Effigy end of world</td>
+  </tr>
+</table>
 
 SUNDAY
-+-----------+-----------------+
-|   Time    |    Info Area    |
-+-----------+-----------------+
-| 9am - 5pm | Privesc by sagi |
-+-----------+-----------------+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l">Time</th>
+    <th class="tg-yw4l">Info Area</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">09:00-17:00</td>
+    <td class="tg-yw4l">Privesc by sagi</td>
+  </tr>
+</table>
+
+Refer to the [>>campground sitemap here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png) for details about the workshop areas
 
 Date
 : 6.30pm Friday 22nd of September - 12:00am Sunday 24th September 2017
@@ -80,6 +169,11 @@ Location
 : Bents Basin Campground (1 hour west of Sydney CBD)
 : 525 Wolstenholme Ave, Greendale NSW 2745
 : Party bus services will be available to and from the venue on Saturday for non-campers
+
+### Workshops
+SDR Foxhunting (Whole Day)
+: By pamoshea, nullwolf and faz
+: Pamela O'Shea (@pamoshea): Pamela is a pentester from Melbourne. She is an organiser of the Melbourne Software Defined Radio Group and follows the prime directive.
 
 ### FAQ
 How do I get there?
