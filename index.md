@@ -15,25 +15,59 @@ The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on on
 Grab your [>>tickets HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
 
 Some of our content includes:
-: Backdooring monitors
-: Blue team jamming
-: Capture the Flags
-: Drone hacking and racing
-: Hardware hacking
-: Internet of Things exploitation
-: Multi-OS privilege escalation
-: Physical security exploitation including lockpicking, bypass techniqes, NFC hacking and hostage escape
-: Software Defined Radio (SDR) building and hunting
-: Wireless hacking
+: Blue team jamming by lin_s
+: Drone hacking and racing by securitymeta_
+: Hardware hacking by silvio cesare
+: Mobile apps hacking by mike g + saty
+: NFC hacking by sysrq
+: Physical security exploitation including lockpicking, bypass techniqes by topy, klepas and swherdman
+: Software Defined Radio (SDR) hunting by poshea, nullwolf and faz
+: Windows privilege escalation by sagi
+: Wireless hacking by seb kinne
 
 A more detailed schedule of talks will be released closer to the event.
 Refer to the [>>campground sitemap here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png) for details about the workshop areas
+
+Schedule
+
+FRIDAY
++----------------+------------------------------+
+|      Time      |        Chillout Area         |
++----------------+------------------------------+
+| 6.30pm onwards | - Cantenna building by faz   |
+|                | - LED soldering by andrew    |
+|                | - Communal EL wire wearables |
++----------------+------------------------------+
+
+SATURDAY
++-------------------+---------------------+
+|       Time        |        Event        |
++-------------------+---------------------+
+| 09.00am - 10.00am | Breakfast           |
+| 10.00am - 10.20am | Welcome             |
+| 10.30am - 11.40am | Workshop 1          |
+| 11.50am - 13.00pm | Workshop 2          |
+| 13.00pm - 14.20pm | LAGOON SIZZLE       |
+| 14.20pm - 15.30pm | Workshop 3          |
+| 15.40pm - 16.50pm | Workshop 4          |
+| 17.00pm - 17.45pm | Fireball talks      |
+| 17.45pm - 18.00pm | Closing             |
+| 18:30pm - 20:00pm | Dinner              |
+| 20.30pm           | Effigy end of world |
++-------------------+---------------------+
+
+SUNDAY
++-----------+-----------------+
+|   Time    |    Info Area    |
++-----------+-----------------+
+| 9am - 5pm | Privesc by sagi |
++-----------+-----------------+
 
 Date
 : 6.30pm Friday 22nd of September - 12:00am Sunday 24th September 2017
 : Nerding out besides a campfire from 6:30pm Friday 22nd September
 : Official welcome at 10:00am Saturday 23rd September
-: Effigy end of the world at 9:00pm Saturday 24th September
+: Effigy end of the world at 8:30pm Saturday 24th September
 
 Cost
 : $99.99 (whether you're camping or not)
