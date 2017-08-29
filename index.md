@@ -63,7 +63,7 @@ SATURDAY
   <tr>
     <td class="tg-yw4l">10:30-11:40</td>
     <td class="tg-yw4l">Lock bypass by topy + klepas</td>
-    <td class="tg-yw4l"rowspan="2">Android by mike g + saty</td>
+    <td class="tg-yw4l" rowspan="2">Android by mike g + saty</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l" rowspan="2">Badge soldering, NFC hacking + CTF</td>
@@ -140,7 +140,9 @@ SUNDAY
   </tr>
 </table>
 
+
 Refer to the [>>campground sitemap here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png) for details about the workshop areas
+
 
 Cost
 : $99.99 (whether you're camping or not)
