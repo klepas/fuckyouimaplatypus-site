@@ -14,7 +14,12 @@ The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on on
 
 Grab your [>>tickets HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
 
-Schedule
+Date
+: 6.30pm Friday 22nd of September - 12:00am Sunday 24th September 2017
+: Nerding out besides a campfire from 6:30pm Friday 22nd September
+: Official welcome at 10:00am Saturday 23rd September
+: Effigy end of the world at 8:30pm Saturday 24th September
+
 
 FRIDAY
 <table class="tg">
@@ -27,6 +32,7 @@ FRIDAY
     <td class="tg-yw4l" rowspan="3">- Cantenna fun by faz<br>- LED soldering by andrew bolin<br>- Campfire EL wire wearables</td>
   </tr>
 </table>
+
 
 SATURDAY
 <table class="tg">
@@ -121,6 +127,7 @@ SATURDAY
   </tr>
 </table>
 
+
 SUNDAY
 <table class="tg">
   <tr>
@@ -134,12 +141,6 @@ SUNDAY
 </table>
 
 Refer to the [>>campground sitemap here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png) for details about the workshop areas
-
-Date
-: 6.30pm Friday 22nd of September - 12:00am Sunday 24th September 2017
-: Nerding out besides a campfire from 6:30pm Friday 22nd September
-: Official welcome at 10:00am Saturday 23rd September
-: Effigy end of the world at 8:30pm Saturday 24th September
 
 Cost
 : $99.99 (whether you're camping or not)
