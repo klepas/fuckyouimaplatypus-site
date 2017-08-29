@@ -72,6 +72,7 @@ SATURDAY
     <td class="tg-yw4l">11:50-13:00</td>
     <td class="tg-yw4l">Drones by securitymeta_</td>
     <td class="tg-yw4l"></td>
+  </tr>
   <tr>
     <td class="tg-yw4l">13:00-14:20</td>
     <td class="tg-yw4l"></td>
