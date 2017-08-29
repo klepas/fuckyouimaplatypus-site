@@ -14,17 +14,6 @@ The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on on
 
 Grab your [>>tickets HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
 
-Some of our content includes:
-: Blue team jamming by lin_s
-: Drone hacking and racing by securitymeta_
-: Hardware hacking by silvio cesare
-: Mobile apps hacking by mike g + saty
-: NFC hacking by sysrq
-: Physical security exploitation including lockpicking, bypass techniqes by topy, klepas and swherdman
-: Software Defined Radio (SDR) hunting by poshea, nullwolf and faz
-: Windows privilege escalation by sagi
-: Wireless hacking by seb kinne
-
 Schedule
 
 FRIDAY
