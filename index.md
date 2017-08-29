@@ -78,7 +78,7 @@ SATURDAY
     <td class="tg-yw4l">Drones by securitymeta_</td>
     <td class="tg-yw4l"></td>
   <tr>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">13:00-14:20</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
@@ -165,8 +165,17 @@ Location
 : Party bus services will be available to and from the venue on Saturday for non-campers
 
 ### Workshops
-Android App Hacking (2.5hr)
-: By Mike G + David Jorm
+Android Apps Penetration Testing (2.5hr)
+: By David Jorm + Mike Gianarakis
+: This workshop is designed to take those unfamiliar with Android to the point where they are equipped to perform basic penetration tests on Android applications of all kinds. It will cover: 
+  * Structure of Android applications 
+  * Decompilation and source code analysis 
+  * Sandbox and permissions model 
+  * Data storage and associated vulnerabilities 
+  * Logging 
+  * Intercepting and analysing network communications 
+  * A simple CTF challenge 
+: Attendee requirements: basic knowledge of Linux and Java is presumed. A laptop with appropriate tools installed beforehand is required
 
 Badge Soldering (Whole Day - Come and Go @ Chillout Area)
 : By idont
