@@ -104,7 +104,7 @@ SATURDAY
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">Fireball talks</td>
+    <td class="tg-yw4l">FIREBALL TALKS</td>
   </tr>
   <tr>
     <td class="tg-yw4l">17.45-18.00</td>
