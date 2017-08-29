@@ -43,8 +43,8 @@ SATURDAY
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Time</th>
-    <th class="tg-yw4l">Workshops</th>
-    <th class="tg-yw4l">PhysSec</th>
+    <th class="tg-yw4l">Workshop A</th>
+    <th class="tg-yw4l">Workshop B</th>
     <th class="tg-yw4l">Drone</th>
     <th class="tg-yw4l">SDR</th>
     <th class="tg-yw4l">~chillout~</th>
@@ -67,18 +67,15 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">10:30-11:40</td>
-    <td class="tg-yw4l">Workshop 1</td>
-    <td class="tg-yw4l">PhysSec 1</td>
+    <td class="tg-yw4l">Lock bypass by topy + klepas</td>
+    <td class="tg-yw4l"rowspan="2">Android by mike g + saty</td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf and faz</td>
-    <td class="tg-yw4l" rowspan="2">Badge soldering, CTF</td>
+    <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf + faz</td>
+    <td class="tg-yw4l" rowspan="2">Badge soldering, NFC hacking + CTF</td>
   </tr>
   <tr>
     <td class="tg-yw4l">11:50-13:00</td>
-    <td class="tg-yw4l">Workshop 2</td>
-    <td class="tg-yw4l">PhysSec 2</td>
-    <td class="tg-yw4l">Drone 1</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Drones by securitymeta_</td>
     <td class="tg-yw4l"></td>
   <tr>
     <td class="tg-yw4l"></td>
@@ -90,19 +87,16 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">14:20-15:30</td>
-    <td class="tg-yw4l">Workshop 3</td>
-    <td class="tg-yw4l">PhysSec 3</td>
-    <td class="tg-yw4l">Drone racing</td>
-    <td class="tg-yw4l" rowspan="2">(cont) Foxhunt by pamoshea, nullwolf and faz</td>
-    <td class="tg-yw4l" rowspan="2">(cont) Badge soldering, CTF</td>
+    <td class="tg-yw4l">Hardware by silvio</td>
+    <td class="tg-yw4l">Jamming by lin_s</td>
+    <td class="tg-yw4l" rowspan="2">Drone racing</td>
+    <td class="tg-yw4l" rowspan="2">(cont) Foxhunt by pamoshea, nullwolf + faz</td>
+    <td class="tg-yw4l" rowspan="2">(cont) Badge soldering, NFC hacking + CTF</td>
   </tr>
   <tr>
     <td class="tg-yw4l">15:40-16:50</td>
-    <td class="tg-yw4l">Workshop 4</td>
-    <td class="tg-yw4l">PhysSec 4</td>
-    <td class="tg-yw4l">Drone racing</td>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">PhysSec by swherdman</td>
+    <td class="tg-yw4l">Wifi by seb</td>
   </tr>
   <tr>
     <td class="tg-yw4l">17:00-17:45</td>
@@ -134,7 +128,7 @@ SATURDAY
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">Effigy end of world</td>
+    <td class="tg-yw4l">Effigy</td>
   </tr>
 </table>
 
@@ -171,9 +165,13 @@ Location
 : Party bus services will be available to and from the venue on Saturday for non-campers
 
 ### Workshops
-SDR Foxhunting (Whole Day)
-: By pamoshea, nullwolf and faz
+Android App Hacking (2.5hr @
+
+SDR Foxhunting (Whole Day - Come and Go @ SDR village)
+: By pamoshea, nullwolf + faz
 : Pamela O'Shea (@pamoshea): Pamela is a pentester from Melbourne. She is an organiser of the Melbourne Software Defined Radio Group and follows the prime directive.
+
+Windows
 
 ### FAQ
 How do I get there?
