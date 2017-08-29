@@ -165,13 +165,41 @@ Location
 : Party bus services will be available to and from the venue on Saturday for non-campers
 
 ### Workshops
-Android App Hacking (2.5hr @
+Android App Hacking (2.5hr)
+: By Mike G + David Jorm
+
+Badge Soldering (Whole Day - Come and Go @ Chillout Area)
+: By idont
+
+Blue Team Jamming (1hr)
+: By lin_s
+
+Drone Hacking (1 hr)
+: By securitymeta_
+
+Drone Racing (1/2 Day - Come and Go)
+
+Hardware (1hr)
+: By Dr Silvio Cesare
+
+Locks Bypass 102 (1hr)
+: By topy + klepas
+
+NFC Hacking (Whole Day - Come and Go @ Chillout Area)
+: By sysrq
 
 SDR Foxhunting (Whole Day - Come and Go @ SDR village)
 : By pamoshea, nullwolf + faz
 : Pamela O'Shea (@pamoshea): Pamela is a pentester from Melbourne. She is an organiser of the Melbourne Software Defined Radio Group and follows the prime directive.
 
-Windows
+Physical Security (1hr)
+: By Scott Herdman
+
+Wifi Pineapple (1hr)
+: By Sebastian Kinne 
+
+Windows Privilege Escalation (Whole day @ Info Desk Area)
+: By Sagi 
 
 ### FAQ
 How do I get there?
