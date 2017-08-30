@@ -161,13 +161,13 @@ Location
 Android Apps Penetration Testing (2.5hr)
 : By David Jorm + Mike Gianarakis
 : This workshop is designed to take those unfamiliar with Android to the point where they are equipped to perform basic penetration tests on Android applications of all kinds. It will cover: 
-  * Structure of Android applications 
-  * Decompilation and source code analysis 
-  * Sandbox and permissions model 
-  * Data storage and associated vulnerabilities 
-  * Logging 
-  * Intercepting and analysing network communications 
-  * A simple CTF challenge 
+  - Structure of Android applications 
+  - Decompilation and source code analysis 
+  - Sandbox and permissions model 
+  - Data storage and associated vulnerabilities 
+  - Logging 
+  - Intercepting and analysing network communications 
+  - A simple CTF challenge 
 : Attendee requirements: basic knowledge of Linux and Java is presumed. A laptop with appropriate tools installed beforehand is required
 
 Badge Soldering (Whole Day - Come and Go @ Chillout Area)
@@ -179,9 +179,9 @@ Blue Team Jamming (1hr)
 Drone Hacking (1 hr)
 : By securitymeta_
 
-Drone Racing (1/2 Day - Come and Go)
+Drone Racing (1/2 Day - Come and Go @ Drone Village)
 
-Hardware (1hr)
+Hardware Hacking (1hr)
 : By Dr Silvio Cesare
 
 Locks Bypass 102 (1hr)
@@ -201,17 +201,20 @@ Wifi Pineapple (1hr)
 : By Sebastian Kinne 
 
 Windows Privilege Escalation (Whole day @ Info Desk Area)
-: By Sagi 
+: By Sagi Shahar
+: This workshop will cover all (currently) known attack vectors of local user privilege escalation on Windows operating systems.
+: Attendee requirements: administrative access to a laptop with the ability to install a few tools, and disable personal firewalls or virus scanners, and a player to run VirtualBox/VMWare images.
+: Sagi Shahar has worked in penetration testing for 6 years. During his career Sagi has achieved various highly-regarded technical certifications (OSCP, OSCE, CREST CCT (App), GXPN). Sagi's passion is mainly focused around security training and education in which he presented, developed, and contributed several hacking challenges (CTFs) to security conferences and the global information security community.
 
 ### FAQ
 How do I get there?
 : By car: enter the Bents Basin campground entrance from Wolstenholme Ave and follow the signs to the campground
 : By the platypus party bus: 
 
-- Picking up from Central station, Bay 14 @ Eddy Avenue: 8:30am Saturday 23/09/2017
-- Returning from campgrounds: 10:00pm Saturday 23/09/2017 back to Central station
-- Book your party bus seat on Eventbrite with your ticket
-- Don't be late! If you miss the party bus, you'll need to sort your own transportation
+  - Picking up from Central station, Bay 14 @ Eddy Avenue: 8:30am Saturday 23/09/2017
+  - Returning from campgrounds: 10:00pm Saturday 23/09/2017 back to Central station
+  - Book your party bus seat on Eventbrite with your ticket
+  - Don't be late! If you miss the party bus, you'll need to sort your own transportation
 
 : For Friday campers, a staff can pick you up at Leppington train station. Just let us know when you'll be there and we'll come get you =]
 
