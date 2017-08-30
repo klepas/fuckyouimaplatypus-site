@@ -156,7 +156,7 @@ Cost
 Location
 : Bents Basin Campground (1 hour west of Sydney CBD)
 : 525 Wolstenholme Ave, Greendale NSW 2745
-: Party bus services will be available to and from the venue on Saturday for non-campers
+: Party bus services will be available to and from the venue on Saturday only for non-campers (book your seat on EventBrite)
 
 ### Workshops
 Android Apps Penetration Testing (2.5hr)
@@ -171,7 +171,7 @@ Android Apps Penetration Testing (2.5hr)
   - Intercepting and analysing network communications 
   - A simple CTF challenge 
   
-: Attendee requirements: basic knowledge of Linux and Java is presumed. A laptop with appropriate tools installed beforehand is required
+Attendee requirements: basic knowledge of Linux and Java is presumed. A laptop with appropriate tools installed beforehand is required
 
 Badge Soldering (Whole Day - Come and Go @ Chillout Area)
 : By idont
