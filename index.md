@@ -10,7 +10,7 @@ If you're interested in information security, and willing to spend time and effo
 
 ## PlatypusCon^H^H^HCamp 2017
 
-The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September (no, you don't have to camp). We're working on lining up another epic day of hands-on conference-style events and an epic night of festivities.
+The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September (no, you don't have to camp). We're working on lining up another epic day of our signature hands-on conference-style events and an epic night of festivities.
 
 Grab your [>>tickets HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
 
@@ -18,7 +18,8 @@ Date
 : 6.30pm Friday 22nd of September - 17:00pm Sunday 24th September 2017
 : Nerding out besides a campfire from 6:30pm Friday 22nd September
 : Official welcome at 10:00am Saturday 23rd September
-: Effigy end of the world at 8:30pm Saturday 24th September
+: Lagoon midday party at 13:00pm Saturday 23rd September
+: Effigy end of the world at 8:30pm Saturday 23rd September
 
 
 FRIDAY
