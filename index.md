@@ -203,13 +203,7 @@ Wifi Pineapple (1hr)
 Windows Local Privilege Escalation (Whole day @ Info Desk Area)
 : By sagi
 : This workshop will cover all (currently) known attack vectors of local user privilege escalation on the [Windows operating system](https://pbs.twimg.com/media/DAZsE2VUQAA_bpZ.jpg)
-: Attendee requirements: administrative access to a laptop with the ability to install a few tools, and disable personal firewalls or virus scanners. Laptop with the capability to connect to a wireless network. At least 8GB of RAM with at least 16GB of disk space free, is recommended.
- 
-- Students require a player to run VirtualBox/VMWare images.
- 
-What students will be provided with:
-- The training material in electronic format.
-- Virtual machines, packed with all the tools required to perform the covered attacks.
+: Attendee requirements: administrative access to a laptop with the ability to install tools, disable firewalls or virus scanners, and a player to run VirtualBox/VMWare images.
 : Sagi has worked in penetration testing for 6+ years. During his career Sagi has achieved various highly-regarded technical certifications (OSCP, OSCE, CREST CCT (App), GXPN). Sagi's passion is mainly focused around security training and education in which he presented, developed, and contributed several hacking challenges (CTFs) to security conferences and the global information security community.
 
 ### FAQ
