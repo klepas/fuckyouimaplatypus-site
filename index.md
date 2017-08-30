@@ -162,6 +162,7 @@ Location
 Android Apps Penetration Testing (2.5hr)
 : By David Jorm + Mike Gianarakis
 : This workshop is designed to take those unfamiliar with Android to the point where they are equipped to perform basic penetration tests on Android applications of all kinds. It will cover: 
+
   - Structure of Android applications 
   - Decompilation and source code analysis 
   - Sandbox and permissions model 
@@ -169,6 +170,7 @@ Android Apps Penetration Testing (2.5hr)
   - Logging 
   - Intercepting and analysing network communications 
   - A simple CTF challenge 
+  
 : Attendee requirements: basic knowledge of Linux and Java is presumed. A laptop with appropriate tools installed beforehand is required
 
 Badge Soldering (Whole Day - Come and Go @ Chillout Area)
@@ -181,6 +183,7 @@ Drone Hacking (1 hr)
 : By securitymeta_
 
 Drone Racing (1/2 Day - Come and Go @ Drone Village)
+: pew pew
 
 Hardware Hacking (1hr)
 : By Dr Silvio Cesare
@@ -210,14 +213,13 @@ Windows Local Privilege Escalation (Whole day @ Info Desk Area)
 ### FAQ
 How do I get there?
 : By car: enter the Bents Basin campground entrance from Wolstenholme Ave and follow the signs to the campground
+: For Friday campers, a staff can pick you up at Leppington train station. Just let us know when you'll be there and we'll come get you =]
 : By the platypus party bus: 
 
   - Picking up from Central station, Bay 14 @ Eddy Avenue: 8:30am Saturday 23/09/2017
   - Returning from campgrounds: 10:00pm Saturday 23/09/2017 back to Central station
   - Book your party bus seat on Eventbrite with your ticket
   - Don't be late! If you miss the party bus, you'll need to sort your own transportation
-
-: For Friday campers, a staff can pick you up at Leppington train station. Just let us know when you'll be there and we'll come get you =]
 
 Do I have to camp?
 : No, you can be lame and just come Saturday
