@@ -15,7 +15,7 @@ The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on on
 Grab your [>>tickets HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
 
 Date
-: 6.30pm Friday 22nd of September - 12:00am Sunday 24th September 2017
+: 6.30pm Friday 22nd of September - 17:00pm Sunday 24th September 2017
 : Nerding out besides a campfire from 6:30pm Friday 22nd September
 : Official welcome at 10:00am Saturday 23rd September
 : Effigy end of the world at 8:30pm Saturday 24th September
@@ -200,11 +200,17 @@ Physical Security (1hr)
 Wifi Pineapple (1hr)
 : By Sebastian Kinne 
 
-Windows Privilege Escalation (Whole day @ Info Desk Area)
-: By Sagi Shahar
-: This workshop will cover all (currently) known attack vectors of local user privilege escalation on Windows operating systems.
-: Attendee requirements: administrative access to a laptop with the ability to install a few tools, and disable personal firewalls or virus scanners, and a player to run VirtualBox/VMWare images.
-: Sagi Shahar has worked in penetration testing for 6 years. During his career Sagi has achieved various highly-regarded technical certifications (OSCP, OSCE, CREST CCT (App), GXPN). Sagi's passion is mainly focused around security training and education in which he presented, developed, and contributed several hacking challenges (CTFs) to security conferences and the global information security community.
+Windows Local Privilege Escalation (Whole day @ Info Desk Area)
+: By sagi
+: This workshop will cover all (currently) known attack vectors of local user privilege escalation on the [Windows operating system](https://pbs.twimg.com/media/DAZsE2VUQAA_bpZ.jpg)
+: Attendee requirements: administrative access to a laptop with the ability to install a few tools, and disable personal firewalls or virus scanners. Laptop with the capability to connect to a wireless network. At least 8GB of RAM with at least 16GB of disk space free, is recommended.
+ 
+- Students require a player to run VirtualBox/VMWare images.
+ 
+What students will be provided with:
+- The training material in electronic format.
+- Virtual machines, packed with all the tools required to perform the covered attacks.
+: Sagi has worked in penetration testing for 6+ years. During his career Sagi has achieved various highly-regarded technical certifications (OSCP, OSCE, CREST CCT (App), GXPN). Sagi's passion is mainly focused around security training and education in which he presented, developed, and contributed several hacking challenges (CTFs) to security conferences and the global information security community.
 
 ### FAQ
 How do I get there?
