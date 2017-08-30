@@ -170,7 +170,6 @@ Android Apps Penetration Testing (2.5hr)
   - Logging 
   - Intercepting and analysing network communications 
   - A simple CTF challenge 
-  
 : David & Michael manage the Trustwave SpiderLabs team across Asia-Pacific, and enjoy hacking mobile apps and embedded devices. Strong preference for flat ducks.
 : Attendee requirements: basic knowledge of Linux and Java is presumed. A laptop with appropriate tools installed beforehand is required
 
