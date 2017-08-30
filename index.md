@@ -227,14 +227,14 @@ Do I have to camp?
 What are the accommodation options?
 : In your own provided tent (Yes, Kmart tents are fine)
 : In our $50 tent package, which includes a tent + sleeping mat + sleeping bag (but BYO pillow). Pickup your package when you arrive. Order your package from Eventbrite
-: Feel free to hire a glamping company to setup up your tent
+: Feel free to hire a glamping company to setup your tent
 : In your car or whatever vehicle you came in
-: In the next town 15 mins away (Wallacia NSW)
+: In the next town 15 mins away (Wallacia NSW), or whatever town that has a place you prefer to sleep in
 
 Where can I put up my tent?
 : On any patch of grass
 : Excluding areas next to the marquees / workshop area
-: Refer to the sitemap on Eventbrite
+: Refer to the [>>campground sitemap here<<](https://letsjusthackshit.org/platypus17-camp-sitemap.png)
 
 What facilities does the campground provide?
 : Hot showers with power points
@@ -252,7 +252,7 @@ What infrastructure will platypus provide?
 
 What do I need to bring?
 : Laptop
-: Camping equipment (tent, sleeping bag, sleeping matt, pillow) or sleep in your car
+: Camping equipment (tent, sleeping bag, sleeping mat, pillow) or sleep in your car
 : Food, water, cooking equipment and utensils to survive 2 nights camping
 
 Other things that may be useful to bring:
@@ -273,7 +273,7 @@ What vehicle can you bring?
 : Cars, motorhomes, caravan, camper trailers, campervans
 
 Where can I park?
-: Immediately next to your tent, trailer or caravan
+: Immediately next to your tent, trailer or caravan (that means yes, you can park on the grass)
 : Marked parking spaces 
 : Cost: $8 per day to be be paid separately via the campground's parking machines
 
@@ -302,9 +302,10 @@ What's the wet weather plan?
 
 As a group, we frequent many of the community events around Sydney. You'll generally find us at events like:
 
-- Sectalks Sydney: every 2nd Tuesday of the month
-- Ruxmon Sydney: every 3rd Friday of the month
-- CryptoParty Sydney
+- [Sectalks Sydney](https://www.meetup.com/en-AU/SecTalks/): every 2nd Tuesday of the month
+- [Ruxmon Sydney](http://www.ruxmon.com/sydney/): every 3rd Friday of the month
+- [Cyberspectrum Sydney](https://www.meetup.com/en-AU/sdr-sydney/)
+- [CryptoAUSTRALIA](https://www.meetup.com/en-AU/CryptoAUSTRALIA-Digital-Self-Defence-Privacy/)
 
 Our semi-regular [Platypus events](http://www.meetup.com/en-AU/OWASP-Sydney-Web-Application-Security-Group/) gives us the opportunity to do tons of cool security shit like:
 
