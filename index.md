@@ -64,7 +64,7 @@ SATURDAY
   <tr>
     <td class="tg-yw4l">10:30-11:40</td>
     <td class="tg-yw4l">Lock bypass by topy + klepas</td>
-    <td class="tg-yw4l" rowspan="2">Android by mike g + saty</td>
+    <td class="tg-yw4l" rowspan="2">Android by dave j + mike g</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l" rowspan="2">Badge soldering, NFC hacking + CTF</td>
@@ -171,7 +171,8 @@ Android Apps Penetration Testing (2.5hr)
   - Intercepting and analysing network communications 
   - A simple CTF challenge 
   
-Attendee requirements: basic knowledge of Linux and Java is presumed. A laptop with appropriate tools installed beforehand is required
+: David & Michael manage the Trustwave SpiderLabs team across Asia-Pacific, and enjoy hacking mobile apps and embedded devices. Strong preference for flat ducks.
+: Attendee requirements: basic knowledge of Linux and Java is presumed. A laptop with appropriate tools installed beforehand is required
 
 Badge Soldering (Whole Day - Come and Go @ Chillout Area)
 : By idont
