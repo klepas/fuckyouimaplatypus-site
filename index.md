@@ -67,7 +67,7 @@ SATURDAY
     <td class="tg-yw4l" rowspan="2">Android by dave j + mike g</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf + faz</td>
-    <td class="tg-yw4l" rowspan="2">Badge soldering, NFC hacking + CTF</td>
+    <td class="tg-yw4l" rowspan="2">Badge by idont, NFC by chris + CTF</td>
   </tr>
   <tr>
     <td class="tg-yw4l">11:50-13:00</td>
@@ -88,7 +88,7 @@ SATURDAY
     <td class="tg-yw4l">Jamming by lin_s</td>
     <td class="tg-yw4l" rowspan="2">Drone racing</td>
     <td class="tg-yw4l" rowspan="2">(cont) Foxhunt by pamoshea, nullwolf + faz</td>
-    <td class="tg-yw4l" rowspan="2">(cont) Badge soldering, NFC hacking + CTF</td>
+    <td class="tg-yw4l" rowspan="2">(cont) Badge by idont, NFC by chris + CTF</td>
   </tr>
   <tr>
     <td class="tg-yw4l">15:40-16:50</td>
@@ -191,8 +191,9 @@ Hardware Hacking (1hr)
 Locks Bypass 102 (1hr)
 : By topy + klepas
 
-NFC Hacking (Whole Day - Come and Go @ Chillout Area)
-: By sysrq
+NFC tags, and why you shouldn’t put one in your hand (Whole Day - Come and Go @ Chillout Area)
+: By Chris “THIS IS A FAKE NAME” Hansen
+: If you’re actually interested in reasons not to put one in your hand, I’m the wrong person to ask. I got really drunk and convinced a stressed out family member to inject it into my hand at 2AM. This workshop will however cover things like “Don’t let @snail order NFC tags for you” and “Why can’t you use a proxmark on OS X?“. Drop in, drop out, drop a 0day. Or don’t. I’m a bio, not a cop.
 
 SDR Foxhunting (Whole Day - Come and Go @ SDR village)
 : By pamoshea, nullwolf + faz
