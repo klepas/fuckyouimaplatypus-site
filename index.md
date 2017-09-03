@@ -181,7 +181,7 @@ Blue Team Jamming (2hr - Come and Go)
 Drone Hacking (1 hr)
 : By securitymeta_
 
-Drone Racing (1/2 Day - Come and Go @ Drone Village)
+Drone Racing (3/4 Day - Come and Go @ Drone Village)
 : pew pew
 
 Hardware Hacking (1hr)
