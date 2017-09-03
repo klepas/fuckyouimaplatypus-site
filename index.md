@@ -63,7 +63,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">10:30-11:40</td>
-    <td class="tg-yw4l">Lock bypass by topy + klepas</td>
+    <td class="tg-yw4l">Hardware by silvio</td>
     <td class="tg-yw4l" rowspan="2">Android by dave j + mike g</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf + faz</td>
@@ -71,7 +71,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">11:50-13:00</td>
-    <td class="tg-yw4l">Drones by securitymeta_</td>
+    <td class="tg-yw4l">Lock bypass by topy + klepas</td>
     <td class="tg-yw4l"></td>
   </tr>
   <tr>
@@ -84,8 +84,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">14:20-15:30</td>
-    <td class="tg-yw4l">Hardware by silvio</td>
-    <td class="tg-yw4l">Jamming by lin_s</td>
+    <td class="tg-yw4l" rowspan="2">Jamming by lin_s + nullwolf</td>
     <td class="tg-yw4l" rowspan="2">Drone racing</td>
     <td class="tg-yw4l" rowspan="2">(cont) Foxhunt by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l" rowspan="2">(cont) Badge by idont, NFC by chris + CTF</td>
@@ -93,7 +92,6 @@ SATURDAY
   <tr>
     <td class="tg-yw4l">15:40-16:50</td>
     <td class="tg-yw4l">PhysSec by swherdman</td>
-    <td class="tg-yw4l">Wifi by seb</td>
   </tr>
   <tr>
     <td class="tg-yw4l">17:00-17:45</td>
@@ -176,8 +174,8 @@ Android Apps Penetration Testing (2.5hr)
 Badge Soldering (Whole Day - Come and Go @ Chillout Area)
 : By idont
 
-Blue Team Jamming (1hr)
-: By lin_s
+Blue Team Jamming (2hr - Come and Go)
+: By lin_s + nullwolf
 
 Drone Hacking (1 hr)
 : By securitymeta_
@@ -201,9 +199,6 @@ SDR Foxhunting (Whole Day - Come and Go @ SDR village)
 
 Physical Security (1hr)
 : By Scott Herdman
-
-Wifi Pineapple (1hr)
-: By Sebastian Kinne 
 
 Windows Local Privilege Escalation (Whole day @ Info Desk Area)
 : By sagi
