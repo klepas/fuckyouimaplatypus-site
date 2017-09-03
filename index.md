@@ -86,8 +86,8 @@ SATURDAY
     <td class="tg-yw4l">14:20-15:30</td>
     <td class="tg-yw4l">PhysSec by swherdman</td>
     <td class="tg-yw4l" rowspan="2">Jamming by lin_s + nullwolf</td>
-    <td class="tg-yw4l" rowspan="2">Racing</td>
     <td class="tg-yw4l" rowspan="2">(cont) Foxhunt by pamoshea, nullwolf + faz</td>
+    <td class="tg-yw4l" rowspan="2">Racing</td>
     <td class="tg-yw4l" rowspan="2">(cont) Badge by idont, NFC by chris + CTF</td>
   </tr>
   <tr>
