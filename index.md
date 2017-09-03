@@ -41,8 +41,8 @@ SATURDAY
     <th class="tg-yw4l">Time</th>
     <th class="tg-yw4l">Workshop A</th>
     <th class="tg-yw4l">Workshop B</th>
-    <th class="tg-yw4l">Drone</th>
     <th class="tg-yw4l">SDR</th>
+    <th class="tg-yw4l">Drone</th>
     <th class="tg-yw4l">~chillout~</th>
   </tr>
   <tr>
@@ -65,14 +65,14 @@ SATURDAY
     <td class="tg-yw4l">10:30-11:40</td>
     <td class="tg-yw4l">Hardware by silvio</td>
     <td class="tg-yw4l" rowspan="2">Android by dave j + mike g</td>
-    <td class="tg-yw4l"></td>
     <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf + faz</td>
+    <td class="tg-yw4l"></td>
     <td class="tg-yw4l" rowspan="2">Badge by idont, NFC by chris + CTF</td>
   </tr>
   <tr>
     <td class="tg-yw4l">11:50-13:00</td>
     <td class="tg-yw4l">Lock bypass by topy + klepas</td>
-    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l">Racing</td>
   </tr>
   <tr>
     <td class="tg-yw4l">13:00-14:20</td>
@@ -84,8 +84,9 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">14:20-15:30</td>
+    <td class="tg-yw4l">PhysSec by swherdman</td>
     <td class="tg-yw4l" rowspan="2">Jamming by lin_s + nullwolf</td>
-    <td class="tg-yw4l" rowspan="2">Drone racing</td>
+    <td class="tg-yw4l" rowspan="2">Racing</td>
     <td class="tg-yw4l" rowspan="2">(cont) Foxhunt by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l" rowspan="2">(cont) Badge by idont, NFC by chris + CTF</td>
   </tr>
