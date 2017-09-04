@@ -54,7 +54,7 @@ SATURDAY
     <td class="tg-yw4l">Breakfast</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">10:00-10:20</td>
+    <td class="tg-yw4l">10:00-10:15</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
@@ -62,15 +62,15 @@ SATURDAY
     <td class="tg-yw4l">Welcome</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">10:30-11:40</td>
-    <td class="tg-yw4l">Hardware by silvio</td>
+    <td class="tg-yw4l">10:20-11:35</td>
+    <td class="tg-yw4l">Lock bypass by topy + klepas</td>
     <td class="tg-yw4l" rowspan="2">Android by dave j + mike g</td>
     <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l" rowspan="2">Badge by idont, NFC by chris + CTF</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">11:50-13:00</td>
+    <td class="tg-yw4l">11:45-13:00</td>
     <td class="tg-yw4l">Lock bypass by topy + klepas</td>
     <td class="tg-yw4l">Racing</td>
   </tr>
@@ -178,14 +178,8 @@ Badge Soldering (Whole Day - Come and Go @ Chillout Area)
 Blue Team Jamming (2hr - Come and Go)
 : By lin_s + nullwolf
 
-Drone Hacking (1 hr)
-: By securitymeta_
-
 Drone Racing (3/4 Day - Come and Go @ Drone Village)
 : pew pew
-
-Hardware Hacking (1hr)
-: By Dr Silvio Cesare
 
 Locks Bypass 102 (1hr)
 : By topy + klepas
