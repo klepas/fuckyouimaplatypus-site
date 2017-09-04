@@ -190,7 +190,7 @@ NFC tags, and why you shouldn’t put one in your hand (Whole Day - Come and Go 
 
 SDR Foxhunting Funtimes Outside! (Whole Day - Come and Go @ SDR village)
 : By pamoshea, nullwolf + faz
-: This workshop forces you take a walk to practice foxhunting for a number of signals around Platypus Camp.
+: This workshop forces you to take a walk and practice foxhunting for a number of signals around Platypus Camp.
 : If you are new to SDR don't worry, come along with a laptop and we will have some bootable USBs and RTLSDR dongles you can borrow on the day.
 : For wifi fun, please bring a can and an Alfa card.
 : All other signals (excluding wifi) will be around 433Mhz, feel free to bring any directional antennae you have for this frequency. For example, a [tape measure antenna](http://www.instructables.com/id/433-MHz-tape-measure-antenna-suits-UHF-transmitte/)
