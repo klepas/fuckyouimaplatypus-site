@@ -26,7 +26,7 @@ FRIDAY
 <table class="tg">
   <tr>
     <th class="tg-yw4l">Time</th>
-    <th class="tg-yw4l">~campfire~</th>
+    <th class="tg-yw4l">~campfire~ nerding out</th>
   </tr>
   <tr>
     <td class="tg-yw4l">18:30 onwards</td>
