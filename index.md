@@ -188,8 +188,15 @@ NFC tags, and why you shouldn’t put one in your hand (Whole Day - Come and Go 
 : By Chris “THIS IS A FAKE NAME” Hansen
 : If you’re actually interested in reasons not to put one in your hand, I’m the wrong person to ask. I got really drunk and convinced a stressed out family member to inject it into my hand at 2AM. This workshop will however cover things like “Don’t let @snail order NFC tags for you” and “Why can’t you use a proxmark on OS X?“. Drop in, drop out, drop a 0day. Or don’t. I’m a bio, not a cop.
 
-SDR Foxhunting (Whole Day - Come and Go @ SDR village)
+SDR Foxhunting Funtimes Outside! (Whole Day - Come and Go @ SDR village)
 : By pamoshea, nullwolf + faz
+: This workshop forces you take a walk to practice foxhunting for a number of signals around Platypus Camp.
+: If you are new to SDR don't worry, come along with a laptop and we will have some bootable USBs and RTLSDR dongles you can borrow on the day.
+: For wifi fun, please bring a can and an Alfa card.
+: All other signals (excluding wifi) will be around 433Mhz, feel free to bring any directional antennae you have for this frequency. For example, a [tape measure antenna](http://www.instructables.com/id/433-MHz-tape-measure-antenna-suits-UHF-transmitte/)
+: If you have any portable radios e.g. handheld Baofeng, bring these too as they can be handy for finding signals.
+: If you have worked with SDR before, nullwolf has prepared a reverse engineering challenge for you. You may also want to team up with a lock picker for one of the challenges too!
+: In summary, there should be a challenge for everyone - see you there!
 : Pamela O'Shea (@pamoshea): Pamela is a pentester from Melbourne. She is an organiser of the Melbourne Software Defined Radio Group and follows the prime directive.
 
 Physical Security (1hr)
