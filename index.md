@@ -65,7 +65,7 @@ SATURDAY
     <td class="tg-yw4l">10:20-11:35</td>
     <td class="tg-yw4l">Lock bypass by topy + klepas</td>
     <td class="tg-yw4l" rowspan="2">Android by dave j + mike g</td>
-    <td class="tg-yw4l" rowspan="2">Foxhunt by pamoshea, nullwolf + faz</td>
+    <td class="tg-yw4l" rowspan="2">Foxhunt <br>by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l" rowspan="2">Badge by idont, NFC by chris + CTF</td>
   </tr>
@@ -86,7 +86,7 @@ SATURDAY
     <td class="tg-yw4l">14:20-15:30</td>
     <td class="tg-yw4l">PhysSec by swherdman</td>
     <td class="tg-yw4l" rowspan="2">Jamming by lin_s + nullwolf</td>
-    <td class="tg-yw4l" rowspan="2">(cont) Foxhunt by pamoshea, nullwolf + faz</td>
+    <td class="tg-yw4l" rowspan="2">(cont) Foxhunt <br>by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l" rowspan="2">Racing</td>
     <td class="tg-yw4l" rowspan="2">(cont) Badge by idont, NFC by chris + CTF</td>
   </tr>
@@ -177,6 +177,7 @@ Badge Soldering (Whole Day - Come and Go @ Chillout Area)
 
 Blue Team Jamming (2hr - Come and Go)
 : By lin_s + nullwolf
+: nulwolf: Penetration Tester and Security Researcher. Obsessions: Physical security, social engineering,  brewing beer, playing with fire, and software defined radio.
 
 Drone Racing (3/4 Day - Come and Go @ Drone Village)
 : pew pew
@@ -198,6 +199,8 @@ SDR Foxhunting Funtimes Outside! (Whole Day - Come and Go @ SDR village)
 : If you have worked with SDR before, nullwolf has prepared a reverse engineering challenge for you. You may also want to team up with a lock picker for one of the challenges too!
 : In summary, there should be a challenge for everyone - see you there!
 : Pamela O'Shea (@pamoshea): Pamela is a pentester from Melbourne. She is an organiser of the Melbourne Software Defined Radio Group and follows the prime directive.
+: nulwolf: Penetration Tester and Security Researcher. Obsessions: Physical security, social engineering,  brewing beer, playing with fire, and software defined radio.
+: faz: Cybersecurity practice owner & lecturer who occasionally turns up to platypus events to just hack shit
 
 Physical Security (1hr)
 : By Scott Herdman
