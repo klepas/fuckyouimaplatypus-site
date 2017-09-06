@@ -5,6 +5,9 @@ abstract: "We are a Sydney-based, community-driven initiative that takes a hands
 ---
 
 If you're interested in information security, and willing to spend time and effort actually contributing to cool security projects, whether it be through helping organise venues and content for events, by participating in community events like CTFs or even via code commits (especially via code commits!): let's talk =]
+---
+
+Our product offerings: (video) the [Platypus Enterprise Keystroke Backup Engine](https://www.youtube.com/watch?v=F4hzFFWhyrE)
 
 **
 
