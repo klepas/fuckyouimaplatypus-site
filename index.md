@@ -5,9 +5,6 @@ abstract: "We are a Sydney-based, community-driven initiative that takes a hands
 ---
 
 If you're interested in information security, and willing to spend time and effort actually contributing to cool security projects, whether it be through helping organise venues and content for events, by participating in community events like CTFs or even via code commits (especially via code commits!): let's talk =]
----
-
-Our product offerings: (video) the [Platypus Enterprise Keystroke Backup Engine](https://www.youtube.com/watch?v=F4hzFFWhyrE)
 
 **
 
@@ -326,6 +323,9 @@ CTF
 : Competing, learning and failing in **Capture the Flag** competitions together, working as a team to strengthen our technical skills.
 
 ... and sooo much more.
+
+## Products
+The Platypus Initiative is proud to announce our flagship product, available from only $15.99 per user, per month - your keystrokes are safe with us - the [Platypus Enterprise Cloud Keystroke Backup Engine](https://www.youtube.com/watch?v=F4hzFFWhyrE) (video)
 
 ## Swag
 
