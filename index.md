@@ -30,7 +30,7 @@ FRIDAY
   </tr>
   <tr>
     <td class="tg-yw4l">18:30 onwards</td>
-    <td class="tg-yw4l">- Cantenna fun by faz<br>- LED soldering by andrew bolin<br>- Campfire EL wire wearables</td>
+    <td class="tg-yw4l">- Cantenna fun by faz<br>- LED soldering by andrew bolin<br>- Video projections on trees by kimberley bianca<br>- Campfire EL wire wearables</td>
   </tr>
 </table>
 
