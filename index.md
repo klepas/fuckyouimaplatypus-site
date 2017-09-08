@@ -63,7 +63,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">10:20-11:35</td>
-    <td class="tg-yw4l">Lock bypass by topy + klepas</td>
+    <td class="tg-yw4l">Mousejack by snail</td>
     <td class="tg-yw4l" rowspan="2">Android by dave j + mike g</td>
     <td class="tg-yw4l" rowspan="2">Foxhunt <br>by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l"></td>
@@ -71,7 +71,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">11:45-13:00</td>
-    <td class="tg-yw4l">Lock bypass by topy + klepas</td>
+    <td class="tg-yw4l">>Mousejack by snail</td>
     <td class="tg-yw4l">Racing</td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">14:20-15:30</td>
-    <td class="tg-yw4l">PhysSec by swherdman</td>
+    <td class="tg-yw4l">Lock bypass by topy + klepas</td>
     <td class="tg-yw4l" rowspan="2">Jamming by lin_s + nullwolf</td>
     <td class="tg-yw4l" rowspan="2">(cont) Foxhunt <br>by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l" rowspan="2">Racing</td>
@@ -92,7 +92,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">15:40-16:50</td>
-    <td class="tg-yw4l">PhysSec by swherdman</td>
+    <td class="tg-yw4l">Lock bypass by topy + klepas</td>
   </tr>
   <tr>
     <td class="tg-yw4l">17:00-17:45</td>
@@ -185,6 +185,9 @@ Drone Racing (3/4 Day - Come and Go @ Drone Village)
 Locks Bypass 102 (1hr)
 : By topy + klepas
 
+Mousejack (1hr)
+: By snail
+
 NFC tags, and why you shouldn’t put one in your hand (Whole Day - Come and Go @ Chillout Area)
 : By Chris “THIS IS A FAKE NAME” Hansen
 : If you’re actually interested in reasons not to put one in your hand, I’m the wrong person to ask. I got really drunk and convinced a stressed out family member to inject it into my hand at 2AM. This workshop will however cover things like “Don’t let @snail order NFC tags for you” and “Why can’t you use a proxmark on OS X?“. Drop in, drop out, drop a 0day. Or don’t. I’m a bio, not a cop.
@@ -201,9 +204,6 @@ SDR Foxhunting Funtimes Outside! (Whole Day - Come and Go @ SDR village)
 : Pamela O'Shea (@pamoshea): Pamela is a pentester from Melbourne. She is an organiser of the Melbourne Software Defined Radio Group and follows the prime directive.
 : nulwolf: Penetration Tester and Security Researcher. Obsessions: Physical security, social engineering,  brewing beer, playing with fire, and software defined radio.
 : faz: Cybersecurity practice owner & lecturer who occasionally turns up to platypus events to just hack shit
-
-Physical Security (1hr)
-: By Scott Herdman
 
 Windows Local Privilege Escalation (Whole day @ Info Desk Area)
 : By sagi
