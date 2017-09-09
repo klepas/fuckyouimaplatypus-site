@@ -185,8 +185,10 @@ Drone Racing (3/4 Day - Come and Go @ Drone Village)
 Locks Bypass 102 (1hr)
 : By topy + klepas
 
-Mousejack (1hr)
+Mouse - hijacking, arduinos and burning my hands - jack (1hr)
 : By snail
+: Sometimes you just get bored and want to mildly annoy random strangers by shaking their wireless mouse and typing "LOL HACKED!". The second part of with this workshop will then help you build your own with an Arduino (or burn your hand with solder, whichever is more fun) before you get bored and have a beer at the Chillout Area. 
+: snail is both slimy and slow
 
 NFC tags, and why you shouldn’t put one in your hand (Whole Day - Come and Go @ Chillout Area)
 : By Chris “THIS IS A FAKE NAME” Hansen
