@@ -71,7 +71,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">11:45-13:00</td>
-    <td class="tg-yw4l">>Mousejack by snail</td>
+    <td class="tg-yw4l">Mousejack by snail</td>
     <td class="tg-yw4l">Racing</td>
   </tr>
   <tr>
