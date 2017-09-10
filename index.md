@@ -30,7 +30,7 @@ FRIDAY
   </tr>
   <tr>
     <td class="tg-yw4l">18:30 onwards</td>
-    <td class="tg-yw4l">- Cantenna fun by faz<br>- LED soldering by andrew bolin<br>- Video projections on trees by kimberley bianca<br>- Campfire EL wire wearables</td>
+    <td class="tg-yw4l">- Cantenna fun by faz<br>- Blinkenlights by andrew bolin<br>- Video projections on trees by kimberley bianca<br>- Campfire EL wire wearables</td>
   </tr>
 </table>
 
@@ -174,6 +174,11 @@ Android Apps Penetration Testing (2.5hr)
 
 Badge Soldering (Whole Day - Come and Go @ Chillout Area)
 : By idont
+
+Blinkenlights (Friday Night - Come and Go @ Chillout Area)
+: By andrew bolin
+: DIY animated LED decorations, custom designed for the camp. Choose your colour from Green (for first time solderers), Yellow (second-timers?), or Red (if you like moving grains of rice with tweezers). Being a tech camp, of course there'll be an easter egg in the code =]
+: Andrew learned to solder before learning to write and has been tinkering with electronics ever since, with hobbies include building psychedelic LED circuits and collecting Raspberry Pis. His day job is building embedded systems to keep lithium batteries happy.
 
 Blue Team Jamming (2hr - Come and Go)
 : By lin_s + nullwolf
