@@ -174,6 +174,7 @@ Android Apps Penetration Testing (2.5hr)
 
 Badge Soldering (Whole Day - Come and Go @ Chillout Area)
 : By idont
+: idont: cyber-something
 
 Blinkenlights (Friday Night - Come and Go @ Chillout Area)
 : By andrew bolin
@@ -185,7 +186,7 @@ Blue Team Jamming (2hr - Come and Go)
 : nulwolf: Penetration Tester and Security Researcher. Obsessions: Physical security, social engineering,  brewing beer, playing with fire, and software defined radio.
 
 Drone Racing (3/4 Day - Come and Go @ Drone Village)
-: pew pew
+: By damion
 
 Locks Bypass 102 (1hr)
 : By topy + klepas
