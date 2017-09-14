@@ -30,7 +30,7 @@ FRIDAY
   </tr>
   <tr>
     <td class="tg-yw4l">18:30 onwards</td>
-    <td class="tg-yw4l">- Cantenna fun by faz<br>- Blinkenlights by andrew bolin<br>- Tree projections by kimberley bianca<br>- Campfire EL wire wearables<br>- Make the effigy bigger by gavia</td>
+    <td class="tg-yw4l">- Cantenna fun by faz<br>- Blinkenlights by andrew bolin<br>- VJ'ing by disaster girl<br>- Campfire EL wire wearables<br>- Make the effigy bigger by gavia<br>- DJ by skooch</td>
   </tr>
 </table>
 
@@ -71,7 +71,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">11:45-13:00</td>
-    <td class="tg-yw4l">Mousejack by snail</td>
+    <td class="tg-yw4l">VJ'ing by disaster girl</td>
     <td class="tg-yw4l">Racing</td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ SATURDAY
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">LAGOON SIZZLE</td>
+    <td class="tg-yw4l">LAGOON SIZZLE + electronic music by wolf stansson</td>
   </tr>
   <tr>
     <td class="tg-yw4l">14:20-15:30</td>
@@ -111,12 +111,12 @@ SATURDAY
     <td class="tg-yw4l">Closing</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">18.30-20.00</td>
+    <td class="tg-yw4l">18.30-20.30</td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">Dinner</td>
+    <td class="tg-yw4l">Dinner + <br>Enviro projections by john carolan<br>+ DJ/VJ set by wolf stansson and disaster girl</td>
   </tr>
   <tr>
     <td class="tg-yw4l">20.30</td>
@@ -124,7 +124,7 @@ SATURDAY
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">Effigy</td>
+    <td class="tg-yw4l">Effigy by gavia <br> + DJ by skooch</td>
   </tr>
 </table>
 
@@ -134,10 +134,12 @@ SUNDAY
   <tr>
     <th class="tg-yw4l">Time</th>
     <th class="tg-yw4l">Info Area</th>
+    <th class="tg-yw4l">Chillout Area</th>
   </tr>
   <tr>
     <td class="tg-yw4l">09:00-17:00</td>
     <td class="tg-yw4l">Privesc by sagi</td>
+    <td class="tg-yw4l">Electronic music by wolf stansson</td>
   </tr>
 </table>
 
@@ -188,13 +190,19 @@ Blue Team Jamming (2hr - Come and Go)
 Drone Racing (3/4 Day - Come and Go @ Drone Village)
 : By damion
 
+Enviro Projection Mapping (Saturday night)
+: By john carolan
+: Environmental projection mapping on trees and other surfaces
+: Ask me questions =]
+
 Locks Bypass 102 (1hr)
 : By topy + klepas
 
 Mouse - hijacking, arduinos and burning my hands - jack (1hr)
 : By snail
 : Sometimes you just get bored and want to mildly annoy random strangers by shaking their wireless mouse and typing "LOL HACKED!". The second part of with this workshop will then help you build your own with an Arduino (or burn your hand with solder, whichever is more fun) before you get bored and have a beer at the Chillout Area. 
-: snail is both slimy and slow
+: There is one official workshop on mousejack but the toys will be available all day for you to come and play with at the Chillout Area (with a beer)
+: snail is slimy and slow
 
 NFC tags, and why you shouldn’t put one in your hand (Whole Day - Come and Go @ Chillout Area)
 : By Chris “THIS IS A FAKE NAME” Hansen
@@ -218,6 +226,25 @@ Windows Local Privilege Escalation (Whole day @ Info Desk Area)
 : This workshop will cover all (currently) known attack vectors of local user privilege escalation on the [Windows operating system](https://pbs.twimg.com/media/DAZsE2VUQAA_bpZ.jpg)
 : Attendee requirements: administrative access to a laptop with the ability to install tools, disable firewalls or virus scanners, and a player to run VirtualBox/VMWare images.
 : Sagi has worked in penetration testing for 6+ years. During his career Sagi has achieved various highly-regarded technical certifications (OSCP, OSCE, CREST CCT (App), GXPN). Sagi's passion is mainly focused around security training and education in which he presented, developed, and contributed several hacking challenges (CTFs) to security conferences and the global information security community.
+
+VJ'ing (1hr)
+(Friday night and Saturday night)
+: By disaster girl
+: VJ'ing a mix of video and generative graphics onto trees and tents
+: A walkthrough on the history of VJ'ing, what VJ'ing is today, and how to VJ - including rundown on various tools and processes
+: You can test your VJ skills on Saturday night 
+
+### DJ
+
+Friday Night
+: By skooch
+
+Saturday Night
+: Industrial Dark Techno DJ set by Wolf Stansson + Disaster Girl VJ'ing
+: Rockin' out by skooch
+
+Sunday Day
+: Improvised electronic music by Wolf Stansson
 
 ### Menu
 Friday Dinner
