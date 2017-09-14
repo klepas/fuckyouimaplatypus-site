@@ -219,6 +219,23 @@ Windows Local Privilege Escalation (Whole day @ Info Desk Area)
 : Attendee requirements: administrative access to a laptop with the ability to install tools, disable firewalls or virus scanners, and a player to run VirtualBox/VMWare images.
 : Sagi has worked in penetration testing for 6+ years. During his career Sagi has achieved various highly-regarded technical certifications (OSCP, OSCE, CREST CCT (App), GXPN). Sagi's passion is mainly focused around security training and education in which he presented, developed, and contributed several hacking challenges (CTFs) to security conferences and the global information security community.
 
+### Menu
+Friday Dinner
+: Burgers (with beef, bacon, onions, lettuce, tomato, cheese, beetroot and sauce)
+
+Saturday Breakfast
+: Bacon and egg rolls
+: Croissants with jam or nutella
+
+Saturday Lunch
+: Sausage rolls (with onions and sauce)
+
+Saturday Dinner
+: Burritos (with beef, beans, onions, lettuce, tomato, cheese, spices and sauce)
+
+Sunday Breakfast
+: Bacon and egg rolls
+
 ### FAQ
 How do I get there?
 : By car: enter the Bents Basin campground entrance from Wolstenholme Ave and follow the signs to the campground
