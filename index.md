@@ -71,7 +71,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">11:45-13:00</td>
-    <td class="tg-yw4l">VJ'ing by disaster girl</td>
+    <td class="tg-yw4l">Mousejack by snail</td>
     <td class="tg-yw4l">Racing</td>
   </tr>
   <tr>
@@ -80,7 +80,7 @@ SATURDAY
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">LAGOON SIZZLE + electronic music by wolf stansson</td>
+    <td class="tg-yw4l">LAGOON SIZZLE</td>
   </tr>
   <tr>
     <td class="tg-yw4l">14:20-15:30</td>
@@ -116,7 +116,7 @@ SATURDAY
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">Dinner + <br>Enviro projections by john carolan<br>+ DJ/VJ set by wolf stansson and disaster girl</td>
+    <td class="tg-yw4l">Dinner <br>+ Enviro projections by john carolan<br>+ DJ/VJ set by wolf stansson and disaster girl</td>
   </tr>
   <tr>
     <td class="tg-yw4l">20.30</td>
@@ -124,7 +124,7 @@ SATURDAY
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">Effigy by gavia <br> + DJ by skooch</td>
+    <td class="tg-yw4l">Effigy by gavia <br>+ DJ by skooch</td>
   </tr>
 </table>
 
@@ -228,11 +228,10 @@ Windows Local Privilege Escalation (Whole day @ Info Desk Area)
 : Sagi has worked in penetration testing for 6+ years. During his career Sagi has achieved various highly-regarded technical certifications (OSCP, OSCE, CREST CCT (App), GXPN). Sagi's passion is mainly focused around security training and education in which he presented, developed, and contributed several hacking challenges (CTFs) to security conferences and the global information security community.
 
 VJ'ing (1hr)
-(Friday night and Saturday night)
 : By disaster girl
 : VJ'ing a mix of video and generative graphics onto trees and tents
 : A walkthrough on the history of VJ'ing, what VJ'ing is today, and how to VJ - including rundown on various tools and processes
-: You can test your VJ skills on Saturday night 
+: You can test your VJ skills on Friday and Saturday night 
 
 ### DJ
 
