@@ -30,7 +30,7 @@ FRIDAY
   </tr>
   <tr>
     <td class="tg-yw4l">18:30 onwards</td>
-    <td class="tg-yw4l">- Cantenna fun by faz<br>- Blinkenlights by andrew bolin<br>- Video projections on trees by kimberley bianca<br>- Campfire EL wire wearables</td>
+    <td class="tg-yw4l">- Cantenna fun by faz<br>- Blinkenlights by andrew bolin<br>- Tree projections by kimberley bianca<br>- Campfire EL wire wearables<br>- Make the effigy bigger by gavia</td>
   </tr>
 </table>
 
