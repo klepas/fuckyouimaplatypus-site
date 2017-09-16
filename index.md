@@ -116,7 +116,7 @@ SATURDAY
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
     <td class="tg-yw4l"></td>
-    <td class="tg-yw4l">Dinner <br>+ Enviro projections by john carolan<br>+ DJ/VJ set by wolf stansson and disaster girl</td>
+    <td class="tg-yw4l">Dinner <br>+ Projections by john carolan<br>+ DJ/VJ by wolf stansson and disaster girl</td>
   </tr>
   <tr>
     <td class="tg-yw4l">20.30</td>
@@ -234,7 +234,6 @@ VJ'ing (1hr)
 : You can test your VJ skills on Friday and Saturday night 
 
 ### DJ
-
 Friday Night
 : By skooch
 
