@@ -63,7 +63,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">10:20-11:35</td>
-    <td class="tg-yw4l">Mousejack by snail</td>
+    <td class="tg-yw4l">Mousejack by snail + max</td>
     <td class="tg-yw4l" rowspan="2">Android by dave j + mike g</td>
     <td class="tg-yw4l" rowspan="2">Foxhunt <br>by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l"></td>
@@ -71,7 +71,7 @@ SATURDAY
   </tr>
   <tr>
     <td class="tg-yw4l">11:45-13:00</td>
-    <td class="tg-yw4l">Mousejack by snail</td>
+    <td class="tg-yw4l">Mousejack by snail + max</td>
     <td class="tg-yw4l">Racing</td>
   </tr>
   <tr>
@@ -85,7 +85,7 @@ SATURDAY
   <tr>
     <td class="tg-yw4l">14:20-15:30</td>
     <td class="tg-yw4l">Lock bypass by topy + klepas</td>
-    <td class="tg-yw4l" rowspan="2">Jamming by lin_s + nullwolf</td>
+    <td class="tg-yw4l" rowspan="2">Jamming by lin_s</td>
     <td class="tg-yw4l" rowspan="2">(cont) Foxhunt <br>by pamoshea, nullwolf + faz</td>
     <td class="tg-yw4l" rowspan="2">Racing</td>
     <td class="tg-yw4l" rowspan="2">(cont) Badge by idont, NFC by chris + CTF</td>
@@ -184,8 +184,7 @@ Blinkenlights (Friday Night - Come and Go @ Chillout Area)
 : Andrew learned to solder before learning to write and has been tinkering with electronics ever since, with hobbies include building psychedelic LED circuits and collecting Raspberry Pis. His day job is building embedded systems to keep lithium batteries happy.
 
 Blue Team Jamming (2hr - Come and Go)
-: By lin_s + nullwolf
-: nulwolf: Penetration Tester and Security Researcher. Obsessions: Physical security, social engineering,  brewing beer, playing with fire, and software defined radio.
+: By lin_s
 
 Drone Racing (3/4 Day - Come and Go @ Drone Village)
 : By damion
@@ -195,11 +194,13 @@ Enviro Projection Mapping (Saturday night)
 : Environmental projection mapping on trees and other surfaces
 : Ask me questions =]
 
-Locks Bypass 102 (1hr)
+Locks and Bypass 102 (1hr)
 : By topy + klepas
+: Learn about standard lock picking and then learn a couple of simple bypass techniques so that you don't even need to know how to pick
+: Topy has run Lockpicking at several Australian conferences. Living in a warehouse dubbed "the Hack House" he disappears for days at a time lost amongst piles of computers, cables and locks. Topy has lived and breathed the security industry for the past 15 years and loved it all
 
 Mouse - hijacking, arduinos and burning my hands - jack (1hr)
-: By snail
+: By snail + max
 : Sometimes you just get bored and want to mildly annoy random strangers by shaking their wireless mouse and typing "LOL HACKED!". The second part of with this workshop will then help you build your own with an Arduino (or burn your hand with solder, whichever is more fun) before you get bored and have a beer at the Chillout Area. 
 : There is one official workshop on mousejack but the toys will be available all day for you to come and play with at the Chillout Area (with a beer)
 : snail is slimy and slow
