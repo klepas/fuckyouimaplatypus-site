@@ -265,7 +265,6 @@ Sunday Breakfast
 ### FAQ
 How do I get there?
 : By car: enter the Bents Basin campground entrance from Wolstenholme Ave and follow the signs to the campground
-: For Friday campers, a staff can pick you up at Leppington train station. Just let us know when you'll be there and we'll come get you =]
 : By the platypus party bus: 
 
   - Picking up from Central station, Bay 14 @ Eddy Avenue: 8:30am Saturday 23/09/2017
@@ -334,7 +333,7 @@ What's the closest nearby town?
 
 What's the closest train station?
 : Leppington NSW, 20mins away
-: For campers coming in Friday, we are able to pickup you up from Leppington station if you give us a buzz
+: We may be able to provide limited assistance with transport to the campsite from Leppington station. If you need help getting there, please ask on Slack if you have access - otherwise, we recommend Uber, or a taxi.
 
 Where can I store my valuables?
 : Lock it in your car or carry it with you
