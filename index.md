@@ -14,13 +14,16 @@ Stay tuned for PlatypusCon 2018 in late September, much excite!
 
 ## PlatypusCon^H^H^HCamp 2017 Merch
 
-We hear you, we hear you, if you missed out on merch, we are doing our last runs:
+PLATYPUSCON^H^H^HCAMP 2017 IS OVER, GREAT SUCCESS. Thankyou all for making this community what it is, special thanks to our workshop hosts and volunteers as always. You all rock <3<3<3
+
+And we hear you, we hear you, if you missed out on merch, we are doing our last runs:
 : $30 shirt
 : $60 hoodie
-: Pickup at a platypus meetup near you (we'll work something out for our friends up north and over the west)
-: For the time being, pay via paypal to [https://www.paypal.me/platypusinitiative/](https://www.paypal.me/platypusinitiative/)
+: Pickup at a platypus meetup near you (if you require postage elsewhere, be prepared to pay an additional $10)
+: Pay via paypal directly to [https://www.paypal.me/platypusinitiative/](https://www.paypal.me/platypusinitiative/)
+: Alternatively, purchase merch here [http://events.eventzilla.net/e/platypusconhhhcamp2017-merch-2138926109](http://events.eventzilla.net/e/platypusconhhhcamp2017-merch-2138926109)
 : Pay by the end of 5th of October 2017
-: Stay tuned for other payment methods
+
 
 ## Community Events
 
