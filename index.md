@@ -19,7 +19,7 @@ We hear you, we hear you, if you missed out on merch, we are doing our last runs
 : $60 hoodie
 : Pickup at a platypus meetup near you (we'll work something out for our friends up north and over the west)
 : For the time being, pay via paypal to [https://www.paypal.me/platypusinitiative/](https://www.paypal.me/platypusinitiative/)
-: Pay by the end of 1st of October 2017
+: Pay by the end of 5th of October 2017
 : Stay tuned for other payment methods
 
 ## Community Events
