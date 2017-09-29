@@ -10,7 +10,7 @@ If you're interested in information security, and willing to spend time and effo
 
 ## PlatypusCon 2018
 
-Stay tuned for PlatypusCon 2018, much excite!
+Stay tuned for PlatypusCon 2018 in late September, much excite!
 
 ## PlatypusCon^H^H^HCamp 2017 Merch
 
