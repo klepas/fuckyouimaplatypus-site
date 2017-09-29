@@ -5,6 +5,8 @@ permalink: /platypuscon2017
 abstract: "PLATYPUSCON^H^H^HCAMP 2017 IS OVER, GREAT SUCCESS. Thankyou all for making this community what it is, special thanks to our workshop hosts and volunteers as always. You all rock <3<3<3"
 ---
 
+## PlatypusCon^H^H^HCamp 2017
+
 The Platypus Initiative is happy to announce that PlatypusCon^H^H^HCamp is on once more, on the 22nd-24th September (no, you don't have to camp). We're working on lining up another epic day of our signature hands-on conference-style events and an epic night of festivities.
 
 Grab your [>>tickets HERE<<](https://www.eventbrite.com.au/e/platypusconhhhcamp-tickets-33611303313) 
