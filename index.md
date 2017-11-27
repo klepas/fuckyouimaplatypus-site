@@ -10,22 +10,27 @@ If you're interested in information security, and willing to spend time and effo
 
 **
 
+## HardWare CTF (Via SnailMail)
+
+hwctf is a distributed hardware security group, influenced by similar initiatives such as the Boldport Club, or Riscure's RHME CTF event. It works like this: you sign up to this, and we send you little hardware security and reverse-engineering challenges to work on, either alone, or together with others. It's that simple.
+Don't worry if you don't have much experience with hardware: truth be told, neither do we, but there's no better way to learn than to work on hands-on scenarios!
+
+How much does it cost?
+: This costs $30 every 6 months, via PayPal. This is primarily to recover some of the cost of materials and shipping, which very quickly stacks up.
+
+How do I sign up?
+: Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfx_kmS8S4P1N_ZXpnVyVnCb_IhpQXxwDurTsj7eELSBSk4ug/viewform)
+: Provide an email address we can contact you on
+: Provide a postal address we can send you things on
+: $30 AUD via [PayPal](https://www.paypal.me/platypusinitiative/30)
+
+Registrations for the first hardware challenge will be open until December 1 (AEST) - we aim to have the first challenge to you in time for the new year.
+
+If you're not comfortable giving us your actual mailing address, we recommend using an Australia Post Parcel Locker.
+
 ## PlatypusCon 2018
 
 Stay tuned for PlatypusCon 2018 in late September, much excite!
-
-## PlatypusCon^H^H^HCamp 2017 Merch
-
-PLATYPUSCON^H^H^HCAMP 2017 IS OVER, GREAT SUCCESS. Thankyou all for making this community what it is, special thanks to our workshop hosts and volunteers as always. You all rock <3<3<3
-
-And we hear you, we hear you, if you missed out on merch, we are doing our last runs:
-: $30 shirt
-: $60 hoodie
-: Pickup at a platypus meetup near you (if you require postage elsewhere, be prepared to pay an additional $10)
-: Pay via paypal directly to [https://www.paypal.me/platypusinitiative/](https://www.paypal.me/platypusinitiative/)
-: Alternatively, purchase merch here [http://events.eventzilla.net/e/platypusconhhhcamp2017-merch-2138926109](http://events.eventzilla.net/e/platypusconhhhcamp2017-merch-2138926109)
-: Pay by the end of 5th of October 2017
-
 
 ## Community Events
 
