@@ -24,9 +24,9 @@ How do I sign up?
 : Provide a postal address we can send you things on
 : $30 AUD via [PayPal](https://www.paypal.me/platypusinitiative/30)
 
-Registrations for the first hardware challenge will be open until December 1 (AEST) - we aim to have the first challenge to you in time for the new year.
+Registrations for the first hardware challenge are now CLOSED, and we aim to ship the first round of challenges the week before Christmas.
 
-If you're not comfortable giving us your actual mailing address, we recommend using an Australia Post Parcel Locker.
+If you're not comfortable giving us your actual mailing address, we recommend using an Australia Post Parcel Locker. Also, please consider adding your real name, particularly if you're shipping to a work address - while I don't mind shipping a parcel to el8haxr@el8haxcorp, you may experience difficulty receiving said parcel.
 
 ## PlatypusCon 2018
 
